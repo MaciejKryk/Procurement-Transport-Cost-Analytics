@@ -1,0 +1,1201 @@
+shipment_id,shipment_date,carrier,origin,destination,mode,contract_type,cost_eur,planned_days,actual_days,planned_delivery_date,actual_delivery_date,delay_days,delay_flag,delay_reason
+S0001,2023-11-28,PKP Cargo,Hamburg,Munich,Sea,Contract,4.86,12,15,2023-12-10,2023-12-13,3,1,Documentation
+S0002,2023-08-23,DSV,Rotterdam,Katowice,Road,Contract,1.31,2,3,2023-08-25,2023-08-26,1,1,Truck Shortage
+S0003,2024-11-27,DB Schenker,Gdansk,Katowice,Rail,Contract,3.46,7,7,2024-12-04,2024-12-04,0,0,
+S0004,2024-06-19,FedEx,Berlin,Warsaw,Sea,Contract,5.1,17,18,2024-07-06,2024-07-07,1,1,Port Congestion
+S0005,2023-09-20,Maersk,Gdansk,Zurich,Sea,Spot,4.25,12,12,2023-10-02,2023-10-02,0,0,
+S0006,2023-07-10,UPS,Hamburg,Poznan,Road,Spot,1.77,5,5,2023-07-15,2023-07-15,0,0,
+S0007,2023-02-09,Maersk,Vienna,Zurich,Road,Contract,1.51,4,4,2023-02-13,2023-02-13,0,0,
+S0008,2023-09-03,PKP Cargo,Berlin,Katowice,Rail,Contract,2.94,5,11,2023-09-08,2023-09-14,6,1,Documentation
+S0009,2024-04-11,DSV,Prague,Warsaw,Road,Contract,1.32,3,3,2024-04-14,2024-04-14,0,0,
+S0010,2024-08-23,DB Schenker,Vienna,Rotterdam,Road,Spot,1.36,2,2,2024-08-25,2024-08-25,0,0,
+S0011,2024-04-04,FedEx,Gdansk,Budapest,Road,Contract,1.64,2,2,2024-04-06,2024-04-06,0,0,
+S0012,2024-04-20,DHL,Antwerp,Poznan,Rail,Spot,2.69,9,9,2024-04-29,2024-04-29,0,0,
+S0013,2024-05-09,DHL,Hamburg,Milan,Sea,Contract,4.52,12,14,2024-05-21,2024-05-23,2,1,Operational Issue
+S0014,2024-10-27,PKP Cargo,Vienna,Katowice,Road,Contract,1.25,5,5,2024-11-01,2024-11-01,0,0,
+S0015,2023-06-27,PKP Cargo,Shenzhen,Munich,Road,Spot,1.83,4,9,2023-07-01,2023-07-06,5,1,Truck Shortage
+S0016,2023-05-04,Kuehne+Nagel,Prague,Milan,Rail,Spot,2.64,9,9,2023-05-13,2023-05-13,0,0,
+S0017,2024-09-07,PKP Cargo,Paris,Rotterdam,Sea,Contract,5.02,16,17,2024-09-23,2024-09-24,1,1,Operational Issue
+S0018,2023-06-06,DHL,Hamburg,Budapest,Road,Contract,1.78,5,5,2023-06-11,2023-06-11,0,0,
+S0019,2024-06-17,UPS,Prague,Milan,Sea,Spot,4.88,17,21,2024-07-04,2024-07-08,4,1,Port Congestion
+S0020,2024-01-13,DHL,Gdansk,Rotterdam,Rail,Contract,2.74,8,9,2024-01-21,2024-01-22,1,1,Rail Capacity
+S0021,2023-10-17,UPS,Shenzhen,Warsaw,Road,Contract,1.35,5,5,2023-10-22,2023-10-22,0,0,
+S0022,2024-04-21,UPS,Vienna,Rotterdam,Road,Spot,1.44,4,4,2024-04-25,2024-04-25,0,0,
+S0023,2023-03-13,DSV,Shenzhen,Prague,Road,Contract,0.99,4,5,2023-03-17,2023-03-18,1,1,Carrier Rollover
+S0024,2023-05-19,DSV,Prague,Brno,Road,Spot,1.42,5,5,2023-05-24,2023-05-24,0,0,
+S0025,2024-11-09,PKP Cargo,Prague,Warsaw,Road,Contract,1.66,2,2,2024-11-11,2024-11-11,0,0,
+S0026,2023-09-07,UPS,Antwerp,Milan,Rail,Contract,2.84,8,8,2023-09-15,2023-09-15,0,0,
+S0027,2023-08-14,DSV,Shenzhen,Milan,Road,Contract,1.25,2,3,2023-08-16,2023-08-17,1,1,Warehouse Delay
+S0028,2024-12-27,PKP Cargo,Shenzhen,Poznan,Road,Spot,1.94,5,5,2025-01-01,2025-01-01,0,0,
+S0029,2024-10-15,PKP Cargo,Shanghai,Budapest,Road,Spot,1.69,3,3,2024-10-18,2024-10-18,0,0,
+S0030,2023-04-10,DSV,Antwerp,Rotterdam,Sea,Contract,4.55,13,17,2023-04-23,2023-04-27,4,1,Carrier Rollover
+S0031,2024-07-24,UPS,Gdansk,Poznan,Road,Spot,1.64,5,5,2024-07-29,2024-07-29,0,0,
+S0032,2023-12-16,DB Schenker,Gdansk,Warsaw,Road,Contract,1.34,3,7,2023-12-19,2023-12-23,4,1,Truck Shortage
+S0033,2024-11-17,UPS,Antwerp,Katowice,Road,Contract,1.74,3,3,2024-11-20,2024-11-20,0,0,
+S0034,2023-06-21,FedEx,Shenzhen,Prague,Rail,Contract,3.13,7,8,2023-06-28,2023-06-29,1,1,Weather
+S0035,2023-10-15,UPS,Shanghai,Warsaw,Road,Contract,1.53,2,2,2023-10-17,2023-10-17,0,0,
+S0036,2023-01-01,FedEx,Prague,Budapest,Road,Contract,1.57,5,5,2023-01-06,2023-01-06,0,0,
+S0037,2023-01-05,DHL,Paris,Brno,Road,Spot,1.34,3,3,2023-01-08,2023-01-08,0,0,
+S0038,2024-11-25,Kuehne+Nagel,Shanghai,Katowice,Road,Contract,1.02,5,5,2024-11-30,2024-11-30,0,0,
+S0039,2023-10-16,FedEx,Prague,Budapest,Road,Contract,1.01,4,4,2023-10-20,2023-10-20,0,0,
+S0040,2023-09-02,FedEx,Paris,Brno,Road,Contract,1.77,2,2,2023-09-04,2023-09-04,0,0,
+S0041,2023-08-09,Maersk,Vienna,Milan,Road,Spot,1.29,2,2,2023-08-11,2023-08-11,0,0,
+S0042,2023-01-31,DHL,Gdansk,Brno,Road,Spot,1.3,2,2,2023-02-02,2023-02-02,0,0,
+S0043,2023-06-28,DB Schenker,Rotterdam,Zurich,Rail,Contract,3.09,8,8,2023-07-06,2023-07-06,0,0,
+S0044,2023-01-18,PKP Cargo,Berlin,Munich,Rail,Spot,3.11,7,12,2023-01-25,2023-01-30,5,1,Operational Issue
+S0045,2023-03-06,FedEx,Paris,Warsaw,Road,Contract,1.03,2,2,2023-03-08,2023-03-08,0,0,
+S0046,2023-04-05,DSV,Rotterdam,Munich,Road,Contract,1.33,4,4,2023-04-09,2023-04-09,0,0,
+S0047,2023-10-30,FedEx,Shanghai,Rotterdam,Road,Contract,1.35,5,5,2023-11-04,2023-11-04,0,0,
+S0048,2023-08-22,PKP Cargo,Rotterdam,Budapest,Road,Contract,1.03,3,3,2023-08-25,2023-08-25,0,0,
+S0049,2024-10-10,FedEx,Vienna,Katowice,Road,Contract,1.64,5,6,2024-10-15,2024-10-16,1,1,Documentation
+S0050,2024-06-11,UPS,Berlin,Warsaw,Road,Contract,1.2,3,6,2024-06-14,2024-06-17,3,1,Rail Capacity
+S0051,2023-03-25,PKP Cargo,Prague,Rotterdam,Road,Contract,1.52,3,3,2023-03-28,2023-03-28,0,0,
+S0052,2024-04-04,PKP Cargo,Antwerp,Rotterdam,Sea,Contract,5.08,12,12,2024-04-16,2024-04-16,0,0,
+S0053,2023-02-25,UPS,Prague,Brno,Sea,Contract,5.11,21,21,2023-03-18,2023-03-18,0,0,
+S0054,2024-01-13,UPS,Rotterdam,Warsaw,Rail,Spot,2.83,7,11,2024-01-20,2024-01-24,4,1,Operational Issue
+S0055,2024-05-14,DB Schenker,Antwerp,Munich,Rail,Spot,3.14,8,8,2024-05-22,2024-05-22,0,0,
+S0056,2024-05-05,Kuehne+Nagel,Shenzhen,Milan,Road,Contract,1.57,3,3,2024-05-08,2024-05-08,0,0,
+S0057,2024-03-31,DSV,Prague,Budapest,Road,Spot,1.4,5,5,2024-04-05,2024-04-05,0,0,
+S0058,2024-12-14,DB Schenker,Gdansk,Warsaw,Rail,Contract,2.98,8,9,2024-12-22,2024-12-23,1,1,Operational Issue
+S0059,2023-08-13,UPS,Gdansk,Warsaw,Rail,Contract,2.54,6,6,2023-08-19,2023-08-19,0,0,
+S0060,2023-03-17,DB Schenker,Antwerp,Budapest,Sea,Contract,4.36,20,20,2023-04-06,2023-04-06,0,0,
+S0061,2023-11-21,DSV,Shenzhen,Brno,Road,Spot,1.54,3,3,2023-11-24,2023-11-24,0,0,
+S0062,2024-05-25,DSV,Shenzhen,Zurich,Road,Contract,1.08,3,3,2024-05-28,2024-05-28,0,0,
+S0063,2023-07-13,Kuehne+Nagel,Antwerp,Katowice,Road,Contract,1.29,4,4,2023-07-17,2023-07-17,0,0,
+S0064,2023-11-22,DSV,Vienna,Rotterdam,Road,Contract,1.91,2,2,2023-11-24,2023-11-24,0,0,
+S0065,2023-12-06,DHL,Gdansk,Poznan,Rail,Spot,3.57,5,5,2023-12-11,2023-12-11,0,0,
+S0066,2023-06-29,DHL,Hamburg,Zurich,Sea,Spot,5.43,17,23,2023-07-16,2023-07-22,6,1,Warehouse Delay
+S0067,2024-09-14,Maersk,Antwerp,Brno,Road,Spot,1.27,5,5,2024-09-19,2024-09-19,0,0,
+S0068,2023-03-09,DSV,Shenzhen,Milan,Road,Spot,1.62,3,3,2023-03-12,2023-03-12,0,0,
+S0069,2024-03-16,FedEx,Rotterdam,Zurich,Sea,Contract,4.65,21,21,2024-04-06,2024-04-06,0,0,
+S0070,2024-10-22,Kuehne+Nagel,Paris,Budapest,Road,Contract,1.49,2,2,2024-10-24,2024-10-24,0,0,
+S0071,2024-08-03,UPS,Gdansk,Munich,Road,Contract,1.28,5,5,2024-08-08,2024-08-08,0,0,
+S0072,2024-01-19,DHL,Shanghai,Rotterdam,Road,Contract,1.28,3,3,2024-01-22,2024-01-22,0,0,
+S0073,2024-05-24,DB Schenker,Berlin,Katowice,Sea,Spot,4.7,12,12,2024-06-05,2024-06-05,0,0,
+S0074,2024-05-05,UPS,Antwerp,Budapest,Road,Contract,1.32,4,4,2024-05-09,2024-05-09,0,0,
+S0075,2023-09-24,UPS,Gdansk,Prague,Road,Contract,1.16,5,5,2023-09-29,2023-09-29,0,0,
+S0076,2023-02-04,DB Schenker,Rotterdam,Katowice,Rail,Contract,2.41,6,6,2023-02-10,2023-02-10,0,0,
+S0077,2023-11-30,UPS,Paris,Rotterdam,Road,Spot,1.46,5,5,2023-12-05,2023-12-05,0,0,
+S0078,2023-01-14,UPS,Prague,Brno,Rail,Contract,3.0,8,10,2023-01-22,2023-01-24,2,1,Customs Hold
+S0079,2023-11-16,Kuehne+Nagel,Berlin,Munich,Road,Spot,1.18,3,10,2023-11-19,2023-11-26,7,1,Truck Shortage
+S0080,2024-04-05,PKP Cargo,Antwerp,Poznan,Rail,Contract,3.09,9,9,2024-04-14,2024-04-14,0,0,
+S0081,2023-06-08,UPS,Vienna,Munich,Rail,Spot,3.17,7,7,2023-06-15,2023-06-15,0,0,
+S0082,2024-09-17,FedEx,Paris,Prague,Sea,Contract,4.53,22,22,2024-10-09,2024-10-09,0,0,
+S0083,2024-09-19,PKP Cargo,Berlin,Budapest,Road,Contract,1.77,2,2,2024-09-21,2024-09-21,0,0,
+S0084,2024-02-24,UPS,Berlin,Prague,Road,Contract,0.96,3,3,2024-02-27,2024-02-27,0,0,
+S0085,2024-12-07,Maersk,Shenzhen,Katowice,Rail,Contract,2.57,6,9,2024-12-13,2024-12-16,3,1,Weather
+S0086,2023-04-15,UPS,Rotterdam,Brno,Sea,Spot,5.79,16,16,2023-05-01,2023-05-01,0,0,
+S0087,2024-08-02,DSV,Berlin,Prague,Rail,Contract,3.3,5,5,2024-08-07,2024-08-07,0,0,
+S0088,2024-09-23,DSV,Gdansk,Milan,Sea,Contract,4.43,20,25,2024-10-13,2024-10-18,5,1,Customs Hold
+S0089,2023-06-11,Kuehne+Nagel,Vienna,Zurich,Sea,Spot,6.01,15,15,2023-06-26,2023-06-26,0,0,
+S0090,2023-12-03,Kuehne+Nagel,Antwerp,Milan,Sea,Spot,4.71,18,18,2023-12-21,2023-12-21,0,0,
+S0091,2023-07-31,Maersk,Rotterdam,Budapest,Sea,Contract,3.99,19,22,2023-08-19,2023-08-22,3,1,Carrier Rollover
+S0092,2024-06-26,DSV,Shenzhen,Brno,Road,Spot,1.16,4,4,2024-06-30,2024-06-30,0,0,
+S0093,2023-10-09,DHL,Vienna,Zurich,Road,Contract,1.59,2,2,2023-10-11,2023-10-11,0,0,
+S0094,2023-08-15,FedEx,Paris,Katowice,Road,Contract,1.6,4,10,2023-08-19,2023-08-25,6,1,Rail Capacity
+S0095,2024-12-25,PKP Cargo,Prague,Warsaw,Sea,Spot,5.36,19,21,2025-01-13,2025-01-15,2,1,Rail Capacity
+S0096,2024-11-06,Kuehne+Nagel,Gdansk,Brno,Sea,Spot,5.06,16,16,2024-11-22,2024-11-22,0,0,
+S0097,2023-04-05,FedEx,Shanghai,Prague,Road,Contract,1.44,5,5,2023-04-10,2023-04-10,0,0,
+S0098,2024-03-01,DHL,Shanghai,Zurich,Sea,Spot,5.59,13,14,2024-03-14,2024-03-15,1,1,Carrier Rollover
+S0099,2024-06-29,DB Schenker,Antwerp,Zurich,Road,Contract,1.13,5,5,2024-07-04,2024-07-04,0,0,
+S0100,2024-02-12,FedEx,Berlin,Prague,Sea,Spot,5.18,17,17,2024-02-29,2024-02-29,0,0,
+S0101,2024-04-27,UPS,Antwerp,Brno,Road,Contract,1.51,2,2,2024-04-29,2024-04-29,0,0,
+S0102,2024-11-02,DHL,Shanghai,Brno,Road,Spot,1.74,5,5,2024-11-07,2024-11-07,0,0,
+S0103,2023-12-06,Kuehne+Nagel,Gdansk,Munich,Road,Contract,1.91,3,4,2023-12-09,2023-12-10,1,1,Warehouse Delay
+S0104,2023-02-07,DB Schenker,Shanghai,Prague,Sea,Spot,4.89,16,16,2023-02-23,2023-02-23,0,0,
+S0105,2023-12-29,FedEx,Shenzhen,Budapest,Road,Spot,1.13,2,6,2023-12-31,2024-01-04,4,1,Warehouse Delay
+S0106,2023-07-26,Kuehne+Nagel,Berlin,Katowice,Sea,Spot,5.45,13,15,2023-08-08,2023-08-10,2,1,Port Congestion
+S0107,2023-03-06,DHL,Prague,Milan,Road,Contract,1.73,5,5,2023-03-11,2023-03-11,0,0,
+S0108,2024-01-28,Kuehne+Nagel,Paris,Warsaw,Sea,Spot,4.45,17,17,2024-02-14,2024-02-14,0,0,
+S0109,2023-04-05,Maersk,Antwerp,Brno,Road,Contract,0.98,4,4,2023-04-09,2023-04-09,0,0,
+S0110,2023-02-01,DHL,Rotterdam,Katowice,Road,Spot,0.99,5,5,2023-02-06,2023-02-06,0,0,
+S0111,2023-08-12,FedEx,Hamburg,Brno,Sea,Spot,6.07,19,19,2023-08-31,2023-08-31,0,0,
+S0112,2024-11-02,DHL,Vienna,Budapest,Sea,Contract,5.01,19,19,2024-11-21,2024-11-21,0,0,
+S0113,2024-05-16,Kuehne+Nagel,Shanghai,Prague,Sea,Contract,4.61,12,12,2024-05-28,2024-05-28,0,0,
+S0114,2024-03-31,Maersk,Shanghai,Budapest,Rail,Spot,2.92,7,12,2024-04-07,2024-04-12,5,1,Documentation
+S0115,2024-07-21,DB Schenker,Antwerp,Poznan,Road,Spot,1.76,2,2,2024-07-23,2024-07-23,0,0,
+S0116,2024-02-04,FedEx,Gdansk,Brno,Sea,Contract,4.84,14,14,2024-02-18,2024-02-18,0,0,
+S0117,2023-12-21,DHL,Prague,Katowice,Road,Contract,1.37,2,2,2023-12-23,2023-12-23,0,0,
+S0118,2023-06-05,DB Schenker,Antwerp,Katowice,Road,Contract,1.44,5,5,2023-06-10,2023-06-10,0,0,
+S0119,2024-06-07,FedEx,Shanghai,Rotterdam,Road,Spot,1.3,4,4,2024-06-11,2024-06-11,0,0,
+S0120,2024-10-25,Maersk,Antwerp,Poznan,Road,Contract,1.24,4,4,2024-10-29,2024-10-29,0,0,
+S0121,2023-06-28,DB Schenker,Antwerp,Prague,Road,Contract,1.45,5,6,2023-07-03,2023-07-04,1,1,Carrier Rollover
+S0122,2024-12-11,Maersk,Shenzhen,Milan,Road,Spot,1.26,3,3,2024-12-14,2024-12-14,0,0,
+S0123,2024-08-26,DB Schenker,Vienna,Budapest,Sea,Contract,4.39,12,12,2024-09-07,2024-09-07,0,0,
+S0124,2024-05-26,DB Schenker,Shenzhen,Katowice,Road,Contract,1.26,2,2,2024-05-28,2024-05-28,0,0,
+S0125,2024-07-26,DSV,Rotterdam,Munich,Sea,Contract,4.52,22,24,2024-08-17,2024-08-19,2,1,Equipment Shortage
+S0126,2024-09-28,DHL,Hamburg,Poznan,Rail,Spot,2.68,6,6,2024-10-04,2024-10-04,0,0,
+S0127,2023-04-25,UPS,Rotterdam,Budapest,Road,Spot,1.76,5,5,2023-04-30,2023-04-30,0,0,
+S0128,2024-10-29,DB Schenker,Antwerp,Brno,Road,Contract,1.4,3,3,2024-11-01,2024-11-01,0,0,
+S0129,2024-11-13,PKP Cargo,Antwerp,Prague,Road,Contract,1.43,4,4,2024-11-17,2024-11-17,0,0,
+S0130,2023-06-22,UPS,Shenzhen,Rotterdam,Rail,Spot,3.31,6,11,2023-06-28,2023-07-03,5,1,Equipment Shortage
+S0131,2023-08-03,DSV,Hamburg,Rotterdam,Road,Contract,1.24,2,3,2023-08-05,2023-08-06,1,1,Truck Shortage
+S0132,2023-10-09,DB Schenker,Rotterdam,Budapest,Road,Contract,1.22,5,7,2023-10-14,2023-10-16,2,1,Customs Hold
+S0133,2023-02-15,DB Schenker,Gdansk,Katowice,Road,Contract,1.34,4,7,2023-02-19,2023-02-22,3,1,Warehouse Delay
+S0134,2024-04-15,PKP Cargo,Antwerp,Munich,Road,Spot,1.93,4,4,2024-04-19,2024-04-19,0,0,
+S0135,2023-04-15,DB Schenker,Vienna,Poznan,Road,Contract,1.14,3,3,2023-04-18,2023-04-18,0,0,
+S0136,2023-07-19,Kuehne+Nagel,Hamburg,Warsaw,Road,Spot,1.47,2,2,2023-07-21,2023-07-21,0,0,
+S0137,2024-08-25,DSV,Rotterdam,Munich,Road,Contract,1.64,4,9,2024-08-29,2024-09-03,5,1,Carrier Rollover
+S0138,2023-12-16,DSV,Antwerp,Warsaw,Road,Contract,1.62,3,3,2023-12-19,2023-12-19,0,0,
+S0139,2023-10-31,DB Schenker,Shanghai,Katowice,Road,Contract,1.51,4,4,2023-11-04,2023-11-04,0,0,
+S0140,2023-07-12,Maersk,Vienna,Munich,Road,Contract,1.16,5,5,2023-07-17,2023-07-17,0,0,
+S0141,2023-01-01,FedEx,Paris,Zurich,Road,Spot,1.04,5,5,2023-01-06,2023-01-06,0,0,
+S0142,2024-08-21,UPS,Gdansk,Milan,Road,Contract,1.36,4,5,2024-08-25,2024-08-26,1,1,Truck Shortage
+S0143,2024-08-02,Kuehne+Nagel,Vienna,Rotterdam,Road,Contract,1.42,5,5,2024-08-07,2024-08-07,0,0,
+S0144,2023-07-16,Maersk,Berlin,Zurich,Sea,Contract,5.61,16,21,2023-08-01,2023-08-06,5,1,Port Congestion
+S0145,2024-04-13,PKP Cargo,Prague,Katowice,Road,Spot,1.23,2,2,2024-04-15,2024-04-15,0,0,
+S0146,2023-02-04,FedEx,Antwerp,Rotterdam,Road,Contract,1.4,4,4,2023-02-08,2023-02-08,0,0,
+S0147,2023-12-09,DSV,Berlin,Warsaw,Road,Contract,1.51,4,5,2023-12-13,2023-12-14,1,1,Documentation
+S0148,2024-12-22,Kuehne+Nagel,Shanghai,Budapest,Sea,Spot,5.19,18,18,2025-01-09,2025-01-09,0,0,
+S0149,2024-05-02,FedEx,Rotterdam,Brno,Road,Spot,1.5,4,4,2024-05-06,2024-05-06,0,0,
+S0150,2023-05-30,UPS,Rotterdam,Munich,Rail,Contract,2.94,8,8,2023-06-07,2023-06-07,0,0,
+S0151,2024-10-01,DSV,Berlin,Katowice,Road,Spot,1.45,3,3,2024-10-04,2024-10-04,0,0,
+S0152,2024-11-20,Maersk,Paris,Poznan,Sea,Contract,4.71,16,16,2024-12-06,2024-12-06,0,0,
+S0153,2024-03-18,Kuehne+Nagel,Gdansk,Katowice,Road,Spot,1.84,2,2,2024-03-20,2024-03-20,0,0,
+S0154,2023-06-16,FedEx,Antwerp,Brno,Road,Contract,1.19,4,4,2023-06-20,2023-06-20,0,0,
+S0155,2023-10-01,Kuehne+Nagel,Antwerp,Munich,Sea,Contract,4.24,14,15,2023-10-15,2023-10-16,1,1,Port Congestion
+S0156,2023-07-29,DHL,Vienna,Zurich,Rail,Contract,3.06,5,9,2023-08-03,2023-08-07,4,1,Warehouse Delay
+S0157,2023-04-10,DB Schenker,Rotterdam,Katowice,Road,Contract,0.91,4,4,2023-04-14,2023-04-14,0,0,
+S0158,2024-05-10,DHL,Shanghai,Prague,Road,Contract,1.7,2,2,2024-05-12,2024-05-12,0,0,
+S0159,2023-08-18,Kuehne+Nagel,Berlin,Prague,Road,Contract,1.1,4,4,2023-08-22,2023-08-22,0,0,
+S0160,2023-02-04,PKP Cargo,Berlin,Milan,Road,Contract,1.1,4,4,2023-02-08,2023-02-08,0,0,
+S0161,2024-10-15,DSV,Shenzhen,Budapest,Road,Spot,1.52,2,2,2024-10-17,2024-10-17,0,0,
+S0162,2023-10-02,UPS,Berlin,Budapest,Sea,Spot,5.14,16,16,2023-10-18,2023-10-18,0,0,
+S0163,2024-12-12,Maersk,Rotterdam,Katowice,Road,Contract,1.06,5,5,2024-12-17,2024-12-17,0,0,
+S0164,2023-07-16,UPS,Shanghai,Munich,Road,Spot,1.11,2,2,2023-07-18,2023-07-18,0,0,
+S0165,2023-11-12,UPS,Gdansk,Katowice,Road,Spot,1.35,2,3,2023-11-14,2023-11-15,1,1,Equipment Shortage
+S0166,2023-07-18,Maersk,Paris,Poznan,Road,Contract,1.31,4,4,2023-07-22,2023-07-22,0,0,
+S0167,2024-11-02,FedEx,Antwerp,Budapest,Sea,Contract,4.5,16,20,2024-11-18,2024-11-22,4,1,Equipment Shortage
+S0168,2023-08-28,Maersk,Rotterdam,Zurich,Road,Contract,1.85,3,3,2023-08-31,2023-08-31,0,0,
+S0169,2023-06-02,Kuehne+Nagel,Shenzhen,Brno,Road,Contract,1.23,2,2,2023-06-04,2023-06-04,0,0,
+S0170,2024-04-07,DSV,Prague,Zurich,Road,Contract,1.12,3,3,2024-04-10,2024-04-10,0,0,
+S0171,2023-10-02,Maersk,Shanghai,Prague,Sea,Contract,4.11,15,16,2023-10-17,2023-10-18,1,1,Carrier Rollover
+S0172,2023-08-23,DSV,Shenzhen,Zurich,Road,Contract,1.72,3,6,2023-08-26,2023-08-29,3,1,Truck Shortage
+S0173,2024-11-05,UPS,Paris,Poznan,Road,Contract,1.53,4,4,2024-11-09,2024-11-09,0,0,
+S0174,2024-07-15,UPS,Berlin,Munich,Rail,Spot,2.76,5,5,2024-07-20,2024-07-20,0,0,
+S0175,2024-07-28,DB Schenker,Rotterdam,Budapest,Sea,Contract,5.69,16,16,2024-08-13,2024-08-13,0,0,
+S0176,2024-04-28,DSV,Vienna,Poznan,Sea,Contract,4.84,17,19,2024-05-15,2024-05-17,2,1,Carrier Rollover
+S0177,2023-12-17,DHL,Hamburg,Katowice,Road,Contract,1.82,2,2,2023-12-19,2023-12-19,0,0,
+S0178,2024-11-25,DHL,Shanghai,Warsaw,Road,Contract,1.63,2,6,2024-11-27,2024-12-01,4,1,Truck Shortage
+S0179,2024-01-03,Maersk,Prague,Munich,Rail,Contract,2.77,9,9,2024-01-12,2024-01-12,0,0,
+S0180,2023-04-19,FedEx,Shanghai,Poznan,Road,Contract,1.09,3,5,2023-04-22,2023-04-24,2,1,Rail Capacity
+S0181,2023-11-30,Maersk,Prague,Poznan,Road,Contract,1.23,3,7,2023-12-03,2023-12-07,4,1,Truck Shortage
+S0182,2024-04-03,FedEx,Hamburg,Katowice,Road,Contract,1.2,5,7,2024-04-08,2024-04-10,2,1,Warehouse Delay
+S0183,2024-07-13,DHL,Hamburg,Warsaw,Sea,Spot,5.04,20,21,2024-08-02,2024-08-03,1,1,Carrier Rollover
+S0184,2023-06-08,DSV,Rotterdam,Zurich,Road,Contract,1.49,3,3,2023-06-11,2023-06-11,0,0,
+S0185,2024-03-25,Kuehne+Nagel,Gdansk,Budapest,Rail,Contract,2.4,5,7,2024-03-30,2024-04-01,2,1,Truck Shortage
+S0186,2023-01-05,UPS,Shenzhen,Rotterdam,Road,Contract,1.01,3,3,2023-01-08,2023-01-08,0,0,
+S0187,2024-03-09,FedEx,Hamburg,Poznan,Rail,Contract,2.95,8,8,2024-03-17,2024-03-17,0,0,
+S0188,2024-07-06,DB Schenker,Berlin,Warsaw,Road,Contract,1.46,2,5,2024-07-08,2024-07-11,3,1,Documentation
+S0189,2023-03-18,PKP Cargo,Antwerp,Warsaw,Road,Spot,1.65,5,5,2023-03-23,2023-03-23,0,0,
+S0190,2023-07-02,FedEx,Rotterdam,Katowice,Sea,Contract,4.13,22,22,2023-07-24,2023-07-24,0,0,
+S0191,2023-11-10,DSV,Vienna,Warsaw,Road,Contract,1.71,4,7,2023-11-14,2023-11-17,3,1,Operational Issue
+S0192,2024-01-28,PKP Cargo,Shanghai,Poznan,Road,Contract,1.58,4,4,2024-02-01,2024-02-01,0,0,
+S0193,2024-12-24,DHL,Paris,Munich,Road,Contract,1.2,5,5,2024-12-29,2024-12-29,0,0,
+S0194,2023-10-31,FedEx,Vienna,Katowice,Road,Spot,1.87,5,5,2023-11-05,2023-11-05,0,0,
+S0195,2024-10-15,DB Schenker,Shanghai,Rotterdam,Road,Contract,1.3,3,4,2024-10-18,2024-10-19,1,1,Documentation
+S0196,2023-09-17,FedEx,Hamburg,Prague,Road,Contract,1.01,5,5,2023-09-22,2023-09-22,0,0,
+S0197,2023-10-06,DB Schenker,Paris,Brno,Rail,Spot,2.87,9,9,2023-10-15,2023-10-15,0,0,
+S0198,2024-11-04,UPS,Paris,Budapest,Rail,Contract,2.54,5,5,2024-11-09,2024-11-09,0,0,
+S0199,2024-05-28,Maersk,Prague,Poznan,Road,Contract,0.96,5,5,2024-06-02,2024-06-02,0,0,
+S0200,2024-07-11,UPS,Hamburg,Brno,Road,Contract,1.55,5,6,2024-07-16,2024-07-17,1,1,Customs Hold
+S0201,2023-09-19,UPS,Gdansk,Budapest,Road,Contract,0.96,4,4,2023-09-23,2023-09-23,0,0,
+S0202,2024-08-30,DHL,Berlin,Poznan,Sea,Contract,5.4,22,22,2024-09-21,2024-09-21,0,0,
+S0203,2024-10-02,DB Schenker,Rotterdam,Budapest,Road,Contract,1.12,4,4,2024-10-06,2024-10-06,0,0,
+S0204,2023-02-14,Kuehne+Nagel,Shanghai,Budapest,Rail,Contract,2.6,5,8,2023-02-19,2023-02-22,3,1,Rail Capacity
+S0205,2024-06-27,FedEx,Antwerp,Munich,Road,Contract,1.18,5,9,2024-07-02,2024-07-06,4,1,Warehouse Delay
+S0206,2023-03-08,Maersk,Gdansk,Prague,Road,Contract,1.51,4,8,2023-03-12,2023-03-16,4,1,Operational Issue
+S0207,2024-12-18,FedEx,Gdansk,Budapest,Road,Contract,1.76,3,3,2024-12-21,2024-12-21,0,0,
+S0208,2024-06-12,DB Schenker,Antwerp,Rotterdam,Rail,Contract,3.07,7,7,2024-06-19,2024-06-19,0,0,
+S0209,2023-06-08,UPS,Rotterdam,Munich,Road,Spot,1.09,2,2,2023-06-10,2023-06-10,0,0,
+S0210,2023-07-29,UPS,Shanghai,Prague,Sea,Contract,4.49,21,21,2023-08-19,2023-08-19,0,0,
+S0211,2023-07-28,DB Schenker,Gdansk,Rotterdam,Road,Contract,1.37,3,3,2023-07-31,2023-07-31,0,0,
+S0212,2023-04-27,FedEx,Vienna,Munich,Road,Spot,1.14,2,2,2023-04-29,2023-04-29,0,0,
+S0213,2024-07-07,DSV,Shenzhen,Zurich,Road,Contract,1.33,3,3,2024-07-10,2024-07-10,0,0,
+S0214,2023-10-01,Maersk,Vienna,Rotterdam,Road,Contract,1.62,2,3,2023-10-03,2023-10-04,1,1,Truck Shortage
+S0215,2024-12-19,DHL,Gdansk,Katowice,Road,Contract,1.09,4,4,2024-12-23,2024-12-23,0,0,
+S0216,2023-07-08,Kuehne+Nagel,Vienna,Prague,Sea,Spot,5.87,22,22,2023-07-30,2023-07-30,0,0,
+S0217,2024-07-05,DB Schenker,Vienna,Prague,Road,Contract,1.8,2,2,2024-07-07,2024-07-07,0,0,
+S0218,2023-05-30,Kuehne+Nagel,Berlin,Prague,Road,Spot,1.94,3,3,2023-06-02,2023-06-02,0,0,
+S0219,2023-03-23,DHL,Vienna,Katowice,Road,Spot,1.53,4,4,2023-03-27,2023-03-27,0,0,
+S0220,2024-06-02,FedEx,Rotterdam,Brno,Road,Contract,1.53,3,4,2024-06-05,2024-06-06,1,1,Warehouse Delay
+S0221,2023-02-25,DSV,Paris,Munich,Road,Contract,1.34,3,3,2023-02-28,2023-02-28,0,0,
+S0222,2023-07-16,DB Schenker,Gdansk,Rotterdam,Road,Contract,1.32,2,2,2023-07-18,2023-07-18,0,0,
+S0223,2024-03-18,Kuehne+Nagel,Vienna,Brno,Road,Spot,1.94,3,3,2024-03-21,2024-03-21,0,0,
+S0224,2024-11-26,PKP Cargo,Hamburg,Katowice,Road,Contract,1.13,2,5,2024-11-28,2024-12-01,3,1,Customs Hold
+S0225,2024-09-26,UPS,Shanghai,Milan,Road,Contract,1.54,5,5,2024-10-01,2024-10-01,0,0,
+S0226,2023-09-04,DSV,Paris,Milan,Road,Contract,0.91,4,4,2023-09-08,2023-09-08,0,0,
+S0227,2024-12-18,PKP Cargo,Antwerp,Milan,Road,Contract,1.56,3,3,2024-12-21,2024-12-21,0,0,
+S0228,2024-05-30,Kuehne+Nagel,Shanghai,Zurich,Road,Contract,0.96,5,12,2024-06-04,2024-06-11,7,1,Warehouse Delay
+S0229,2024-06-26,DSV,Rotterdam,Poznan,Sea,Spot,5.31,16,18,2024-07-12,2024-07-14,2,1,Customs Hold
+S0230,2023-09-01,PKP Cargo,Vienna,Rotterdam,Rail,Contract,3.11,5,5,2023-09-06,2023-09-06,0,0,
+S0231,2024-03-19,DHL,Prague,Budapest,Rail,Spot,2.67,5,5,2024-03-24,2024-03-24,0,0,
+S0232,2024-02-21,Maersk,Rotterdam,Warsaw,Road,Spot,1.66,4,4,2024-02-25,2024-02-25,0,0,
+S0233,2023-01-19,PKP Cargo,Prague,Rotterdam,Road,Contract,1.17,2,2,2023-01-21,2023-01-21,0,0,
+S0234,2023-12-12,UPS,Hamburg,Milan,Road,Contract,1.69,2,2,2023-12-14,2023-12-14,0,0,
+S0235,2023-04-06,Maersk,Berlin,Warsaw,Road,Contract,1.1,3,3,2023-04-09,2023-04-09,0,0,
+S0236,2024-06-30,Kuehne+Nagel,Hamburg,Prague,Rail,Contract,2.7,9,11,2024-07-09,2024-07-11,2,1,Operational Issue
+S0237,2024-11-18,FedEx,Antwerp,Prague,Road,Contract,1.15,3,3,2024-11-21,2024-11-21,0,0,
+S0238,2023-07-01,PKP Cargo,Berlin,Prague,Road,Contract,1.76,4,4,2023-07-05,2023-07-05,0,0,
+S0239,2023-09-11,Maersk,Vienna,Rotterdam,Road,Contract,1.34,2,2,2023-09-13,2023-09-13,0,0,
+S0240,2024-04-19,UPS,Prague,Budapest,Road,Contract,1.46,4,8,2024-04-23,2024-04-27,4,1,Warehouse Delay
+S0241,2024-10-17,DHL,Antwerp,Poznan,Road,Contract,1.27,3,8,2024-10-20,2024-10-25,5,1,Equipment Shortage
+S0242,2023-02-17,DHL,Prague,Munich,Sea,Spot,4.14,17,17,2023-03-06,2023-03-06,0,0,
+S0243,2023-05-31,DB Schenker,Berlin,Brno,Road,Spot,1.65,3,3,2023-06-03,2023-06-03,0,0,
+S0244,2024-02-20,PKP Cargo,Hamburg,Munich,Rail,Contract,2.36,5,5,2024-02-25,2024-02-25,0,0,
+S0245,2023-02-28,DSV,Paris,Katowice,Road,Spot,1.14,2,2,2023-03-02,2023-03-02,0,0,
+S0246,2024-07-05,Kuehne+Nagel,Shanghai,Warsaw,Sea,Contract,4.01,17,17,2024-07-22,2024-07-22,0,0,
+S0247,2023-05-09,DB Schenker,Prague,Munich,Sea,Spot,4.81,15,19,2023-05-24,2023-05-28,4,1,Carrier Rollover
+S0248,2023-11-12,PKP Cargo,Berlin,Brno,Road,Contract,1.64,3,3,2023-11-15,2023-11-15,0,0,
+S0249,2023-11-02,DB Schenker,Shanghai,Milan,Road,Spot,1.25,4,9,2023-11-06,2023-11-11,5,1,Truck Shortage
+S0250,2024-07-20,FedEx,Berlin,Zurich,Road,Contract,1.88,4,4,2024-07-24,2024-07-24,0,0,
+S0251,2023-01-30,UPS,Vienna,Rotterdam,Rail,Contract,2.36,9,12,2023-02-08,2023-02-11,3,1,Rail Capacity
+S0252,2024-03-21,UPS,Paris,Brno,Sea,Contract,4.39,17,19,2024-04-07,2024-04-09,2,1,Port Congestion
+S0253,2023-09-11,DSV,Antwerp,Prague,Road,Contract,0.93,4,5,2023-09-15,2023-09-16,1,1,Customs Hold
+S0254,2024-05-29,DB Schenker,Shanghai,Katowice,Road,Contract,1.59,5,5,2024-06-03,2024-06-03,0,0,
+S0255,2023-01-24,DB Schenker,Shenzhen,Katowice,Road,Contract,1.71,3,3,2023-01-27,2023-01-27,0,0,
+S0256,2024-11-30,Maersk,Rotterdam,Munich,Road,Contract,1.63,3,3,2024-12-03,2024-12-03,0,0,
+S0257,2024-02-03,DSV,Berlin,Milan,Rail,Spot,2.59,6,6,2024-02-09,2024-02-09,0,0,
+S0258,2023-12-12,FedEx,Antwerp,Prague,Road,Spot,1.2,2,2,2023-12-14,2023-12-14,0,0,
+S0259,2023-02-07,UPS,Rotterdam,Katowice,Road,Contract,1.48,2,7,2023-02-09,2023-02-14,5,1,Documentation
+S0260,2024-08-12,Maersk,Paris,Rotterdam,Road,Spot,1.2,4,8,2024-08-16,2024-08-20,4,1,Warehouse Delay
+S0261,2024-02-21,UPS,Shenzhen,Katowice,Sea,Contract,4.83,21,21,2024-03-13,2024-03-13,0,0,
+S0262,2024-03-27,Maersk,Berlin,Munich,Road,Spot,1.19,5,7,2024-04-01,2024-04-03,2,1,Carrier Rollover
+S0263,2023-05-11,DSV,Antwerp,Warsaw,Road,Contract,1.69,5,5,2023-05-16,2023-05-16,0,0,
+S0264,2024-04-09,DHL,Rotterdam,Katowice,Road,Contract,1.56,3,3,2024-04-12,2024-04-12,0,0,
+S0265,2024-02-04,Kuehne+Nagel,Hamburg,Munich,Road,Contract,0.93,5,5,2024-02-09,2024-02-09,0,0,
+S0266,2024-11-03,Maersk,Hamburg,Budapest,Road,Contract,1.06,5,10,2024-11-08,2024-11-13,5,1,Rail Capacity
+S0267,2024-01-29,FedEx,Paris,Brno,Sea,Contract,5.26,13,13,2024-02-11,2024-02-11,0,0,
+S0268,2023-02-14,Maersk,Shenzhen,Rotterdam,Sea,Contract,5.08,14,14,2023-02-28,2023-02-28,0,0,
+S0269,2024-10-29,Kuehne+Nagel,Vienna,Milan,Sea,Contract,4.93,16,16,2024-11-14,2024-11-14,0,0,
+S0270,2023-08-27,DHL,Antwerp,Brno,Sea,Contract,5.11,21,23,2023-09-17,2023-09-19,2,1,Customs Hold
+S0271,2024-06-02,DB Schenker,Prague,Zurich,Road,Spot,1.03,3,3,2024-06-05,2024-06-05,0,0,
+S0272,2023-05-11,DSV,Hamburg,Warsaw,Road,Contract,1.14,2,8,2023-05-13,2023-05-19,6,1,Warehouse Delay
+S0273,2023-12-28,Maersk,Gdansk,Katowice,Sea,Contract,5.7,18,18,2024-01-15,2024-01-15,0,0,
+S0274,2023-09-01,DB Schenker,Prague,Munich,Sea,Contract,3.85,19,19,2023-09-20,2023-09-20,0,0,
+S0275,2024-06-14,FedEx,Paris,Milan,Road,Spot,1.29,5,5,2024-06-19,2024-06-19,0,0,
+S0276,2023-07-02,DHL,Berlin,Poznan,Sea,Spot,5.75,17,18,2023-07-19,2023-07-20,1,1,Equipment Shortage
+S0277,2024-07-23,FedEx,Prague,Poznan,Sea,Contract,4.64,13,13,2024-08-05,2024-08-05,0,0,
+S0278,2024-04-18,DHL,Vienna,Budapest,Road,Contract,0.96,5,5,2024-04-23,2024-04-23,0,0,
+S0279,2023-08-05,DSV,Paris,Warsaw,Sea,Contract,4.97,15,16,2023-08-20,2023-08-21,1,1,Rail Capacity
+S0280,2023-04-27,DSV,Shanghai,Munich,Sea,Contract,4.8,16,19,2023-05-13,2023-05-16,3,1,Carrier Rollover
+S0281,2024-09-16,DB Schenker,Prague,Rotterdam,Sea,Contract,4.91,19,19,2024-10-05,2024-10-05,0,0,
+S0282,2023-11-20,DHL,Antwerp,Zurich,Sea,Contract,4.82,14,14,2023-12-04,2023-12-04,0,0,
+S0283,2024-05-26,DHL,Berlin,Prague,Rail,Contract,3.18,9,9,2024-06-04,2024-06-04,0,0,
+S0284,2024-11-09,FedEx,Rotterdam,Munich,Rail,Contract,3.08,9,9,2024-11-18,2024-11-18,0,0,
+S0285,2023-01-16,DB Schenker,Prague,Budapest,Sea,Contract,5.41,15,15,2023-01-31,2023-01-31,0,0,
+S0286,2024-03-19,PKP Cargo,Gdansk,Katowice,Road,Contract,1.79,2,2,2024-03-21,2024-03-21,0,0,
+S0287,2024-05-02,UPS,Hamburg,Katowice,Rail,Contract,2.99,6,8,2024-05-08,2024-05-10,2,1,Documentation
+S0288,2024-06-27,DHL,Antwerp,Prague,Sea,Contract,4.35,22,22,2024-07-19,2024-07-19,0,0,
+S0289,2024-09-01,UPS,Berlin,Prague,Road,Contract,0.94,5,5,2024-09-06,2024-09-06,0,0,
+S0290,2023-05-20,UPS,Shenzhen,Prague,Road,Contract,1.53,2,2,2023-05-22,2023-05-22,0,0,
+S0291,2023-05-02,Maersk,Antwerp,Zurich,Road,Contract,0.9,5,5,2023-05-07,2023-05-07,0,0,
+S0292,2024-10-02,DB Schenker,Antwerp,Zurich,Sea,Contract,4.59,20,26,2024-10-22,2024-10-28,6,1,Port Congestion
+S0293,2024-07-11,FedEx,Shanghai,Poznan,Rail,Contract,2.67,8,8,2024-07-19,2024-07-19,0,0,
+S0294,2024-11-26,FedEx,Prague,Poznan,Road,Contract,1.6,3,3,2024-11-29,2024-11-29,0,0,
+S0295,2023-07-05,FedEx,Shenzhen,Rotterdam,Sea,Spot,6.23,20,20,2023-07-25,2023-07-25,0,0,
+S0296,2024-07-08,Maersk,Shenzhen,Prague,Road,Contract,1.1,4,4,2024-07-12,2024-07-12,0,0,
+S0297,2023-01-21,PKP Cargo,Vienna,Warsaw,Road,Contract,1.68,2,2,2023-01-23,2023-01-23,0,0,
+S0298,2024-04-28,Kuehne+Nagel,Paris,Katowice,Sea,Spot,5.71,13,13,2024-05-11,2024-05-11,0,0,
+S0299,2023-11-05,Maersk,Hamburg,Milan,Road,Contract,1.32,4,4,2023-11-09,2023-11-09,0,0,
+S0300,2024-10-14,Maersk,Gdansk,Milan,Road,Contract,0.97,3,3,2024-10-17,2024-10-17,0,0,
+S0301,2024-03-27,PKP Cargo,Hamburg,Warsaw,Road,Contract,1.14,5,5,2024-04-01,2024-04-01,0,0,
+S0302,2023-07-14,DB Schenker,Berlin,Katowice,Road,Spot,1.43,4,4,2023-07-18,2023-07-18,0,0,
+S0303,2023-04-16,UPS,Shanghai,Poznan,Road,Contract,1.66,4,4,2023-04-20,2023-04-20,0,0,
+S0304,2023-01-20,UPS,Gdansk,Budapest,Road,Spot,1.7,4,4,2023-01-24,2023-01-24,0,0,
+S0305,2023-10-16,DSV,Berlin,Zurich,Road,Contract,1.0,3,6,2023-10-19,2023-10-22,3,1,Truck Shortage
+S0306,2024-05-06,Kuehne+Nagel,Rotterdam,Warsaw,Road,Contract,1.34,2,2,2024-05-08,2024-05-08,0,0,
+S0307,2024-10-24,Maersk,Rotterdam,Katowice,Sea,Contract,4.12,18,18,2024-11-11,2024-11-11,0,0,
+S0308,2023-03-22,PKP Cargo,Hamburg,Prague,Road,Contract,1.63,4,4,2023-03-26,2023-03-26,0,0,
+S0309,2024-05-10,Kuehne+Nagel,Paris,Zurich,Sea,Contract,5.17,16,16,2024-05-26,2024-05-26,0,0,
+S0310,2023-12-16,Maersk,Vienna,Zurich,Road,Spot,1.98,4,4,2023-12-20,2023-12-20,0,0,
+S0311,2024-12-02,FedEx,Paris,Munich,Road,Contract,1.09,2,2,2024-12-04,2024-12-04,0,0,
+S0312,2023-02-08,Kuehne+Nagel,Rotterdam,Warsaw,Road,Spot,1.43,3,7,2023-02-11,2023-02-15,4,1,Equipment Shortage
+S0313,2024-07-20,DB Schenker,Paris,Warsaw,Road,Contract,1.66,5,5,2024-07-25,2024-07-25,0,0,
+S0314,2024-09-11,UPS,Shenzhen,Warsaw,Road,Spot,1.22,5,9,2024-09-16,2024-09-20,4,1,Weather
+S0315,2024-10-03,DHL,Berlin,Katowice,Road,Spot,1.87,2,7,2024-10-05,2024-10-10,5,1,Weather
+S0316,2023-12-15,Kuehne+Nagel,Berlin,Munich,Rail,Contract,2.61,6,6,2023-12-21,2023-12-21,0,0,
+S0317,2023-09-16,PKP Cargo,Rotterdam,Katowice,Road,Contract,1.71,4,7,2023-09-20,2023-09-23,3,1,Truck Shortage
+S0318,2023-03-13,FedEx,Shanghai,Poznan,Road,Contract,1.06,2,3,2023-03-15,2023-03-16,1,1,Equipment Shortage
+S0319,2024-05-05,DB Schenker,Prague,Poznan,Road,Contract,1.73,3,3,2024-05-08,2024-05-08,0,0,
+S0320,2024-11-16,UPS,Vienna,Prague,Sea,Contract,4.34,19,21,2024-12-05,2024-12-07,2,1,Carrier Rollover
+S0321,2024-05-05,DHL,Antwerp,Katowice,Road,Contract,1.63,4,4,2024-05-09,2024-05-09,0,0,
+S0322,2024-05-30,Kuehne+Nagel,Prague,Munich,Road,Spot,1.26,3,3,2024-06-02,2024-06-02,0,0,
+S0323,2023-10-07,DB Schenker,Hamburg,Prague,Sea,Contract,3.9,20,20,2023-10-27,2023-10-27,0,0,
+S0324,2024-10-12,DB Schenker,Antwerp,Milan,Road,Contract,0.92,2,2,2024-10-14,2024-10-14,0,0,
+S0325,2023-07-15,Maersk,Vienna,Brno,Road,Contract,1.25,4,4,2023-07-19,2023-07-19,0,0,
+S0326,2023-08-02,DHL,Antwerp,Zurich,Road,Contract,1.81,4,4,2023-08-06,2023-08-06,0,0,
+S0327,2024-06-22,DSV,Shanghai,Poznan,Sea,Contract,4.24,16,17,2024-07-08,2024-07-09,1,1,Truck Shortage
+S0328,2024-02-15,Maersk,Shanghai,Poznan,Road,Contract,1.09,2,2,2024-02-17,2024-02-17,0,0,
+S0329,2024-04-29,Maersk,Vienna,Prague,Road,Spot,1.55,2,2,2024-05-01,2024-05-01,0,0,
+S0330,2023-09-28,FedEx,Gdansk,Brno,Sea,Contract,4.52,19,19,2023-10-17,2023-10-17,0,0,
+S0331,2023-07-21,PKP Cargo,Antwerp,Munich,Road,Contract,0.96,5,6,2023-07-26,2023-07-27,1,1,Carrier Rollover
+S0332,2023-03-27,Kuehne+Nagel,Vienna,Rotterdam,Road,Contract,1.29,2,2,2023-03-29,2023-03-29,0,0,
+S0333,2024-03-12,UPS,Shenzhen,Rotterdam,Sea,Contract,4.13,16,16,2024-03-28,2024-03-28,0,0,
+S0334,2023-02-19,FedEx,Shanghai,Rotterdam,Road,Spot,1.56,3,3,2023-02-22,2023-02-22,0,0,
+S0335,2024-07-25,FedEx,Hamburg,Brno,Sea,Contract,5.7,15,15,2024-08-09,2024-08-09,0,0,
+S0336,2023-11-27,DSV,Gdansk,Katowice,Sea,Spot,5.17,12,12,2023-12-09,2023-12-09,0,0,
+S0337,2023-05-08,Kuehne+Nagel,Paris,Brno,Rail,Contract,2.61,5,5,2023-05-13,2023-05-13,0,0,
+S0338,2024-11-26,DSV,Berlin,Rotterdam,Road,Spot,1.12,3,3,2024-11-29,2024-11-29,0,0,
+S0339,2023-05-15,PKP Cargo,Shanghai,Budapest,Road,Contract,1.05,3,3,2023-05-18,2023-05-18,0,0,
+S0340,2023-01-08,Maersk,Vienna,Milan,Sea,Spot,4.84,22,22,2023-01-30,2023-01-30,0,0,
+S0341,2024-12-19,UPS,Shenzhen,Milan,Sea,Contract,4.62,22,22,2025-01-10,2025-01-10,0,0,
+S0342,2024-10-27,Maersk,Vienna,Brno,Sea,Spot,5.37,19,19,2024-11-15,2024-11-15,0,0,
+S0343,2023-05-13,DB Schenker,Shanghai,Warsaw,Road,Spot,1.25,5,5,2023-05-18,2023-05-18,0,0,
+S0344,2023-05-30,Maersk,Gdansk,Katowice,Road,Contract,1.45,3,4,2023-06-02,2023-06-03,1,1,Port Congestion
+S0345,2024-10-02,DHL,Rotterdam,Warsaw,Sea,Contract,4.82,20,22,2024-10-22,2024-10-24,2,1,Port Congestion
+S0346,2023-12-19,UPS,Shenzhen,Budapest,Road,Contract,1.66,2,2,2023-12-21,2023-12-21,0,0,
+S0347,2024-12-05,PKP Cargo,Hamburg,Milan,Road,Contract,1.05,3,3,2024-12-08,2024-12-08,0,0,
+S0348,2023-05-12,Maersk,Antwerp,Katowice,Road,Contract,1.67,3,3,2023-05-15,2023-05-15,0,0,
+S0349,2023-07-06,UPS,Hamburg,Brno,Road,Contract,1.77,3,3,2023-07-09,2023-07-09,0,0,
+S0350,2023-03-11,DHL,Hamburg,Katowice,Rail,Spot,3.37,9,10,2023-03-20,2023-03-21,1,1,Customs Hold
+S0351,2023-05-05,DB Schenker,Rotterdam,Poznan,Sea,Contract,5.47,21,21,2023-05-26,2023-05-26,0,0,
+S0352,2024-07-15,Kuehne+Nagel,Prague,Poznan,Road,Contract,1.19,4,4,2024-07-19,2024-07-19,0,0,
+S0353,2024-04-23,DSV,Shenzhen,Milan,Road,Spot,1.71,3,5,2024-04-26,2024-04-28,2,1,Truck Shortage
+S0354,2023-04-18,PKP Cargo,Gdansk,Rotterdam,Road,Spot,1.54,2,2,2023-04-20,2023-04-20,0,0,
+S0355,2024-08-20,DB Schenker,Antwerp,Prague,Road,Spot,1.24,4,4,2024-08-24,2024-08-24,0,0,
+S0356,2023-08-23,UPS,Shenzhen,Poznan,Road,Contract,1.43,3,3,2023-08-26,2023-08-26,0,0,
+S0357,2023-11-18,Maersk,Shenzhen,Milan,Rail,Contract,3.47,7,7,2023-11-25,2023-11-25,0,0,
+S0358,2024-11-08,PKP Cargo,Paris,Budapest,Rail,Contract,3.33,9,15,2024-11-17,2024-11-23,6,1,Documentation
+S0359,2024-05-24,Maersk,Rotterdam,Zurich,Rail,Contract,2.48,5,5,2024-05-29,2024-05-29,0,0,
+S0360,2023-08-06,Maersk,Paris,Zurich,Road,Contract,1.36,5,5,2023-08-11,2023-08-11,0,0,
+S0361,2023-10-02,DB Schenker,Vienna,Munich,Road,Contract,1.05,3,3,2023-10-05,2023-10-05,0,0,
+S0362,2024-11-29,DB Schenker,Vienna,Warsaw,Rail,Spot,3.03,5,10,2024-12-04,2024-12-09,5,1,Documentation
+S0363,2023-12-03,PKP Cargo,Shenzhen,Katowice,Road,Spot,1.12,3,7,2023-12-06,2023-12-10,4,1,Carrier Rollover
+S0364,2024-01-11,DHL,Hamburg,Poznan,Road,Contract,1.3,5,5,2024-01-16,2024-01-16,0,0,
+S0365,2023-11-20,PKP Cargo,Shenzhen,Budapest,Sea,Contract,4.62,15,15,2023-12-05,2023-12-05,0,0,
+S0366,2023-08-11,FedEx,Prague,Brno,Sea,Contract,4.85,12,12,2023-08-23,2023-08-23,0,0,
+S0367,2024-10-13,DB Schenker,Gdansk,Budapest,Road,Contract,1.32,3,3,2024-10-16,2024-10-16,0,0,
+S0368,2023-03-24,FedEx,Vienna,Budapest,Sea,Contract,4.01,15,15,2023-04-08,2023-04-08,0,0,
+S0369,2024-06-13,PKP Cargo,Hamburg,Katowice,Sea,Contract,4.46,22,22,2024-07-05,2024-07-05,0,0,
+S0370,2023-05-29,Kuehne+Nagel,Rotterdam,Katowice,Road,Spot,1.91,2,2,2023-05-31,2023-05-31,0,0,
+S0371,2024-06-10,DSV,Vienna,Rotterdam,Road,Spot,1.82,3,6,2024-06-13,2024-06-16,3,1,Warehouse Delay
+S0372,2024-12-13,DHL,Vienna,Katowice,Rail,Spot,3.6,8,8,2024-12-21,2024-12-21,0,0,
+S0373,2023-06-17,PKP Cargo,Prague,Milan,Road,Contract,1.12,3,3,2023-06-20,2023-06-20,0,0,
+S0374,2023-10-23,PKP Cargo,Gdansk,Warsaw,Road,Contract,1.07,4,5,2023-10-27,2023-10-28,1,1,Port Congestion
+S0375,2023-03-31,DB Schenker,Berlin,Prague,Road,Contract,0.93,2,2,2023-04-02,2023-04-02,0,0,
+S0376,2024-05-18,PKP Cargo,Shenzhen,Zurich,Road,Contract,1.1,2,2,2024-05-20,2024-05-20,0,0,
+S0377,2023-04-14,PKP Cargo,Berlin,Munich,Road,Contract,1.71,3,3,2023-04-17,2023-04-17,0,0,
+S0378,2024-03-27,DB Schenker,Prague,Warsaw,Road,Contract,1.43,3,7,2024-03-30,2024-04-03,4,1,Warehouse Delay
+S0379,2024-07-24,UPS,Rotterdam,Zurich,Road,Contract,1.28,2,2,2024-07-26,2024-07-26,0,0,
+S0380,2024-12-22,DB Schenker,Hamburg,Poznan,Road,Contract,1.27,2,2,2024-12-24,2024-12-24,0,0,
+S0381,2023-04-12,Kuehne+Nagel,Berlin,Warsaw,Road,Spot,1.82,5,5,2023-04-17,2023-04-17,0,0,
+S0382,2023-05-02,FedEx,Hamburg,Rotterdam,Sea,Contract,5.17,14,19,2023-05-16,2023-05-21,5,1,Port Congestion
+S0383,2023-01-29,FedEx,Paris,Warsaw,Sea,Spot,5.32,22,22,2023-02-20,2023-02-20,0,0,
+S0384,2023-08-03,DHL,Shanghai,Poznan,Rail,Contract,2.88,9,9,2023-08-12,2023-08-12,0,0,
+S0385,2024-07-24,DHL,Hamburg,Munich,Road,Contract,1.54,3,3,2024-07-27,2024-07-27,0,0,
+S0386,2024-05-28,Kuehne+Nagel,Gdansk,Budapest,Road,Contract,1.59,2,2,2024-05-30,2024-05-30,0,0,
+S0387,2023-03-12,DSV,Antwerp,Warsaw,Road,Contract,1.7,2,2,2023-03-14,2023-03-14,0,0,
+S0388,2024-05-05,PKP Cargo,Hamburg,Warsaw,Sea,Spot,5.48,20,21,2024-05-25,2024-05-26,1,1,Truck Shortage
+S0389,2024-11-09,DB Schenker,Berlin,Munich,Road,Spot,1.85,2,2,2024-11-11,2024-11-11,0,0,
+S0390,2023-09-20,DHL,Paris,Katowice,Rail,Spot,2.83,6,6,2023-09-26,2023-09-26,0,0,
+S0391,2024-05-28,PKP Cargo,Hamburg,Rotterdam,Road,Contract,1.41,2,2,2024-05-30,2024-05-30,0,0,
+S0392,2023-06-03,UPS,Hamburg,Munich,Rail,Contract,2.55,5,5,2023-06-08,2023-06-08,0,0,
+S0393,2024-11-12,DHL,Vienna,Milan,Road,Spot,1.17,4,4,2024-11-16,2024-11-16,0,0,
+S0394,2023-10-11,FedEx,Rotterdam,Prague,Road,Spot,1.05,4,4,2023-10-15,2023-10-15,0,0,
+S0395,2023-11-02,Kuehne+Nagel,Antwerp,Prague,Road,Contract,1.48,3,3,2023-11-05,2023-11-05,0,0,
+S0396,2023-02-15,UPS,Shenzhen,Warsaw,Road,Spot,1.77,2,2,2023-02-17,2023-02-17,0,0,
+S0397,2023-10-04,DHL,Antwerp,Rotterdam,Road,Contract,1.14,4,4,2023-10-08,2023-10-08,0,0,
+S0398,2024-11-12,UPS,Berlin,Milan,Sea,Contract,5.84,20,21,2024-12-02,2024-12-03,1,1,Port Congestion
+S0399,2023-12-07,DB Schenker,Rotterdam,Prague,Road,Contract,1.51,3,4,2023-12-10,2023-12-11,1,1,Operational Issue
+S0400,2024-05-04,UPS,Antwerp,Katowice,Rail,Contract,2.64,5,5,2024-05-09,2024-05-09,0,0,
+S0401,2023-04-29,PKP Cargo,Shanghai,Milan,Sea,Spot,4.41,19,19,2023-05-18,2023-05-18,0,0,
+S0402,2023-11-05,DB Schenker,Shenzhen,Warsaw,Road,Contract,1.62,3,3,2023-11-08,2023-11-08,0,0,
+S0403,2024-07-15,Maersk,Prague,Munich,Road,Spot,1.04,3,3,2024-07-18,2024-07-18,0,0,
+S0404,2023-03-04,DB Schenker,Shenzhen,Rotterdam,Rail,Contract,2.63,7,7,2023-03-11,2023-03-11,0,0,
+S0405,2024-03-05,Kuehne+Nagel,Prague,Poznan,Rail,Contract,3.11,9,13,2024-03-14,2024-03-18,4,1,Operational Issue
+S0406,2024-04-22,DB Schenker,Shenzhen,Rotterdam,Road,Contract,1.32,2,2,2024-04-24,2024-04-24,0,0,
+S0407,2024-03-15,FedEx,Antwerp,Warsaw,Road,Contract,1.35,2,2,2024-03-17,2024-03-17,0,0,
+S0408,2024-07-06,UPS,Antwerp,Brno,Road,Contract,1.44,5,7,2024-07-11,2024-07-13,2,1,Operational Issue
+S0409,2023-06-24,Maersk,Shanghai,Rotterdam,Road,Contract,1.7,5,5,2023-06-29,2023-06-29,0,0,
+S0410,2023-03-21,PKP Cargo,Gdansk,Poznan,Road,Contract,1.04,3,4,2023-03-24,2023-03-25,1,1,Warehouse Delay
+S0411,2023-03-16,DB Schenker,Paris,Katowice,Rail,Spot,2.69,9,10,2023-03-25,2023-03-26,1,1,Rail Capacity
+S0412,2024-02-09,Maersk,Vienna,Katowice,Road,Spot,1.21,4,4,2024-02-13,2024-02-13,0,0,
+S0413,2024-11-03,DSV,Shenzhen,Katowice,Road,Spot,1.5,5,6,2024-11-08,2024-11-09,1,1,Documentation
+S0414,2023-06-19,PKP Cargo,Vienna,Milan,Sea,Contract,4.99,21,21,2023-07-10,2023-07-10,0,0,
+S0415,2024-02-27,PKP Cargo,Shenzhen,Poznan,Road,Contract,1.53,3,4,2024-03-01,2024-03-02,1,1,Truck Shortage
+S0416,2024-02-26,PKP Cargo,Gdansk,Warsaw,Road,Contract,0.99,2,2,2024-02-28,2024-02-28,0,0,
+S0417,2024-01-22,DSV,Shanghai,Munich,Road,Contract,1.44,3,3,2024-01-25,2024-01-25,0,0,
+S0418,2023-02-13,DSV,Prague,Milan,Sea,Contract,4.14,18,24,2023-03-03,2023-03-09,6,1,Carrier Rollover
+S0419,2024-03-21,UPS,Rotterdam,Brno,Road,Contract,1.79,3,3,2024-03-24,2024-03-24,0,0,
+S0420,2023-09-23,UPS,Shenzhen,Rotterdam,Sea,Contract,4.71,14,16,2023-10-07,2023-10-09,2,1,Carrier Rollover
+S0421,2023-04-13,UPS,Shenzhen,Zurich,Road,Spot,1.48,4,4,2023-04-17,2023-04-17,0,0,
+S0422,2023-09-07,UPS,Hamburg,Milan,Road,Contract,1.57,4,5,2023-09-11,2023-09-12,1,1,Truck Shortage
+S0423,2023-09-03,Maersk,Berlin,Poznan,Road,Spot,1.64,3,7,2023-09-06,2023-09-10,4,1,Truck Shortage
+S0424,2023-07-06,DHL,Rotterdam,Milan,Sea,Contract,5.5,13,20,2023-07-19,2023-07-26,7,1,Weather
+S0425,2023-08-22,FedEx,Rotterdam,Poznan,Sea,Contract,4.15,20,20,2023-09-11,2023-09-11,0,0,
+S0426,2023-04-14,PKP Cargo,Shanghai,Poznan,Rail,Contract,3.09,9,13,2023-04-23,2023-04-27,4,1,Carrier Rollover
+S0427,2023-10-27,Maersk,Shenzhen,Rotterdam,Road,Spot,1.56,2,6,2023-10-29,2023-11-02,4,1,Operational Issue
+S0428,2024-04-22,DSV,Paris,Warsaw,Road,Contract,1.49,5,10,2024-04-27,2024-05-02,5,1,Truck Shortage
+S0429,2024-05-30,PKP Cargo,Rotterdam,Brno,Road,Contract,1.25,3,3,2024-06-02,2024-06-02,0,0,
+S0430,2023-05-13,FedEx,Paris,Rotterdam,Road,Contract,1.16,5,5,2023-05-18,2023-05-18,0,0,
+S0431,2024-01-11,PKP Cargo,Rotterdam,Budapest,Road,Spot,1.02,2,5,2024-01-13,2024-01-16,3,1,Warehouse Delay
+S0432,2023-12-13,FedEx,Berlin,Budapest,Road,Spot,1.35,3,5,2023-12-16,2023-12-18,2,1,Customs Hold
+S0433,2023-02-10,Kuehne+Nagel,Berlin,Katowice,Sea,Contract,5.48,13,15,2023-02-23,2023-02-25,2,1,Weather
+S0434,2024-05-29,DHL,Hamburg,Prague,Road,Spot,1.26,2,4,2024-05-31,2024-06-02,2,1,Equipment Shortage
+S0435,2023-12-04,Maersk,Berlin,Brno,Road,Contract,1.67,3,3,2023-12-07,2023-12-07,0,0,
+S0436,2023-02-12,Kuehne+Nagel,Rotterdam,Poznan,Road,Contract,1.21,3,3,2023-02-15,2023-02-15,0,0,
+S0437,2023-03-29,FedEx,Prague,Rotterdam,Road,Contract,1.44,4,4,2023-04-02,2023-04-02,0,0,
+S0438,2024-02-23,DB Schenker,Rotterdam,Milan,Rail,Spot,2.73,5,5,2024-02-28,2024-02-28,0,0,
+S0439,2024-03-22,Kuehne+Nagel,Shenzhen,Katowice,Road,Contract,1.39,3,3,2024-03-25,2024-03-25,0,0,
+S0440,2023-09-19,Kuehne+Nagel,Shanghai,Poznan,Road,Contract,1.68,3,3,2023-09-22,2023-09-22,0,0,
+S0441,2023-08-16,DHL,Antwerp,Zurich,Road,Spot,1.59,2,2,2023-08-18,2023-08-18,0,0,
+S0442,2023-10-05,DSV,Shanghai,Brno,Road,Contract,1.05,5,5,2023-10-10,2023-10-10,0,0,
+S0443,2024-04-17,DSV,Shenzhen,Milan,Sea,Spot,5.27,17,20,2024-05-04,2024-05-07,3,1,Warehouse Delay
+S0444,2023-04-28,DHL,Gdansk,Budapest,Sea,Contract,4.33,18,18,2023-05-16,2023-05-16,0,0,
+S0445,2024-08-29,DB Schenker,Vienna,Milan,Road,Contract,1.8,3,3,2024-09-01,2024-09-01,0,0,
+S0446,2024-05-26,UPS,Prague,Warsaw,Sea,Contract,3.96,20,20,2024-06-15,2024-06-15,0,0,
+S0447,2024-11-20,Maersk,Paris,Rotterdam,Road,Spot,1.52,3,3,2024-11-23,2024-11-23,0,0,
+S0448,2023-07-28,Kuehne+Nagel,Berlin,Warsaw,Road,Contract,1.5,2,2,2023-07-30,2023-07-30,0,0,
+S0449,2023-10-08,DB Schenker,Vienna,Katowice,Sea,Contract,4.74,14,16,2023-10-22,2023-10-24,2,1,Customs Hold
+S0450,2024-01-01,DB Schenker,Rotterdam,Katowice,Road,Spot,1.13,4,4,2024-01-05,2024-01-05,0,0,
+S0451,2024-11-21,FedEx,Antwerp,Zurich,Rail,Contract,3.51,5,7,2024-11-26,2024-11-28,2,1,Operational Issue
+S0452,2024-07-14,DB Schenker,Shanghai,Milan,Road,Contract,1.66,5,5,2024-07-19,2024-07-19,0,0,
+S0453,2024-05-30,DHL,Paris,Warsaw,Road,Contract,1.69,4,4,2024-06-03,2024-06-03,0,0,
+S0454,2023-04-13,Kuehne+Nagel,Shenzhen,Brno,Road,Contract,1.31,3,3,2023-04-16,2023-04-16,0,0,
+S0455,2024-03-27,DSV,Rotterdam,Brno,Road,Contract,1.02,2,2,2024-03-29,2024-03-29,0,0,
+S0456,2024-08-16,DSV,Shenzhen,Prague,Sea,Spot,4.82,14,17,2024-08-30,2024-09-02,3,1,Truck Shortage
+S0457,2023-06-16,UPS,Paris,Rotterdam,Rail,Contract,3.26,6,6,2023-06-22,2023-06-22,0,0,
+S0458,2024-02-18,FedEx,Vienna,Munich,Road,Contract,1.65,2,5,2024-02-20,2024-02-23,3,1,Rail Capacity
+S0459,2024-03-20,DHL,Hamburg,Poznan,Sea,Spot,5.06,13,13,2024-04-02,2024-04-02,0,0,
+S0460,2024-10-20,DB Schenker,Antwerp,Brno,Road,Spot,1.2,5,6,2024-10-25,2024-10-26,1,1,Truck Shortage
+S0461,2024-09-12,FedEx,Antwerp,Zurich,Road,Contract,1.6,5,6,2024-09-17,2024-09-18,1,1,Equipment Shortage
+S0462,2023-05-15,FedEx,Prague,Zurich,Road,Contract,1.24,3,3,2023-05-18,2023-05-18,0,0,
+S0463,2023-03-26,PKP Cargo,Gdansk,Munich,Road,Contract,1.72,3,3,2023-03-29,2023-03-29,0,0,
+S0464,2023-03-01,DB Schenker,Berlin,Katowice,Sea,Contract,4.72,20,26,2023-03-21,2023-03-27,6,1,Port Congestion
+S0465,2023-08-01,Kuehne+Nagel,Vienna,Milan,Road,Contract,1.69,3,3,2023-08-04,2023-08-04,0,0,
+S0466,2024-05-12,UPS,Gdansk,Warsaw,Road,Spot,1.18,5,5,2024-05-17,2024-05-17,0,0,
+S0467,2024-05-19,UPS,Prague,Rotterdam,Rail,Contract,2.82,9,16,2024-05-28,2024-06-04,7,1,Weather
+S0468,2023-04-25,Kuehne+Nagel,Prague,Zurich,Rail,Contract,2.39,9,14,2023-05-04,2023-05-09,5,1,Carrier Rollover
+S0469,2023-02-09,PKP Cargo,Gdansk,Zurich,Sea,Spot,5.89,12,13,2023-02-21,2023-02-22,1,1,Port Congestion
+S0470,2024-08-18,DSV,Shenzhen,Warsaw,Rail,Contract,2.68,8,11,2024-08-26,2024-08-29,3,1,Rail Capacity
+S0471,2024-03-23,DB Schenker,Shanghai,Budapest,Road,Contract,1.43,3,3,2024-03-26,2024-03-26,0,0,
+S0472,2024-09-30,DSV,Hamburg,Munich,Sea,Spot,5.35,20,20,2024-10-20,2024-10-20,0,0,
+S0473,2024-09-20,DSV,Shenzhen,Katowice,Road,Contract,1.51,4,4,2024-09-24,2024-09-24,0,0,
+S0474,2023-11-29,Maersk,Antwerp,Budapest,Sea,Contract,5.73,17,17,2023-12-16,2023-12-16,0,0,
+S0475,2024-06-16,PKP Cargo,Vienna,Prague,Sea,Contract,4.07,15,15,2024-07-01,2024-07-01,0,0,
+S0476,2024-02-28,PKP Cargo,Prague,Brno,Sea,Contract,4.06,15,16,2024-03-14,2024-03-15,1,1,Documentation
+S0477,2024-10-06,PKP Cargo,Berlin,Prague,Road,Spot,1.46,3,3,2024-10-09,2024-10-09,0,0,
+S0478,2023-04-02,DB Schenker,Vienna,Warsaw,Sea,Spot,4.31,22,22,2023-04-24,2023-04-24,0,0,
+S0479,2024-05-23,UPS,Paris,Zurich,Rail,Spot,2.63,8,13,2024-05-31,2024-06-05,5,1,Truck Shortage
+S0480,2024-03-08,DSV,Berlin,Zurich,Road,Spot,1.9,5,5,2024-03-13,2024-03-13,0,0,
+S0481,2024-03-23,Maersk,Gdansk,Brno,Road,Spot,1.28,5,5,2024-03-28,2024-03-28,0,0,
+S0482,2023-04-11,PKP Cargo,Rotterdam,Budapest,Road,Contract,1.69,4,7,2023-04-15,2023-04-18,3,1,Equipment Shortage
+S0483,2023-09-26,Kuehne+Nagel,Prague,Poznan,Rail,Contract,2.45,8,8,2023-10-04,2023-10-04,0,0,
+S0484,2024-02-19,FedEx,Vienna,Munich,Road,Spot,1.69,3,3,2024-02-22,2024-02-22,0,0,
+S0485,2023-07-10,UPS,Antwerp,Zurich,Rail,Spot,2.92,7,7,2023-07-17,2023-07-17,0,0,
+S0486,2023-11-19,DHL,Vienna,Milan,Road,Contract,1.1,3,6,2023-11-22,2023-11-25,3,1,Equipment Shortage
+S0487,2024-02-27,PKP Cargo,Antwerp,Budapest,Road,Contract,1.6,4,4,2024-03-02,2024-03-02,0,0,
+S0488,2024-11-02,FedEx,Berlin,Rotterdam,Road,Contract,1.7,4,4,2024-11-06,2024-11-06,0,0,
+S0489,2024-09-10,UPS,Prague,Rotterdam,Rail,Spot,2.71,8,8,2024-09-18,2024-09-18,0,0,
+S0490,2023-08-31,Maersk,Shenzhen,Milan,Road,Contract,1.85,4,4,2023-09-04,2023-09-04,0,0,
+S0491,2023-02-12,PKP Cargo,Berlin,Milan,Road,Contract,1.33,5,5,2023-02-17,2023-02-17,0,0,
+S0492,2023-03-05,PKP Cargo,Hamburg,Munich,Road,Contract,1.67,5,5,2023-03-10,2023-03-10,0,0,
+S0493,2024-06-20,FedEx,Rotterdam,Milan,Road,Contract,1.23,4,4,2024-06-24,2024-06-24,0,0,
+S0494,2023-06-21,DB Schenker,Vienna,Brno,Sea,Contract,4.83,12,12,2023-07-03,2023-07-03,0,0,
+S0495,2023-09-23,Kuehne+Nagel,Paris,Katowice,Sea,Contract,4.29,14,14,2023-10-07,2023-10-07,0,0,
+S0496,2023-11-05,DB Schenker,Hamburg,Milan,Sea,Spot,5.52,18,20,2023-11-23,2023-11-25,2,1,Documentation
+S0497,2023-05-30,UPS,Hamburg,Warsaw,Road,Spot,1.13,2,2,2023-06-01,2023-06-01,0,0,
+S0498,2024-04-07,FedEx,Gdansk,Rotterdam,Road,Spot,1.35,4,4,2024-04-11,2024-04-11,0,0,
+S0499,2023-07-04,UPS,Hamburg,Warsaw,Road,Contract,1.31,3,3,2023-07-07,2023-07-07,0,0,
+S0500,2024-06-21,FedEx,Gdansk,Prague,Road,Contract,1.53,4,4,2024-06-25,2024-06-25,0,0,
+S0501,2023-07-23,DSV,Hamburg,Poznan,Road,Contract,1.6,2,2,2023-07-25,2023-07-25,0,0,
+S0502,2023-06-02,FedEx,Berlin,Brno,Rail,Contract,2.87,8,8,2023-06-10,2023-06-10,0,0,
+S0503,2023-06-04,DB Schenker,Prague,Warsaw,Road,Contract,1.79,5,5,2023-06-09,2023-06-09,0,0,
+S0504,2024-12-06,DSV,Shanghai,Munich,Road,Contract,1.39,2,2,2024-12-08,2024-12-08,0,0,
+S0505,2023-05-30,PKP Cargo,Rotterdam,Milan,Road,Spot,1.92,2,2,2023-06-01,2023-06-01,0,0,
+S0506,2024-02-20,FedEx,Hamburg,Rotterdam,Road,Contract,0.98,4,4,2024-02-24,2024-02-24,0,0,
+S0507,2023-02-21,Maersk,Rotterdam,Milan,Road,Contract,0.94,4,4,2023-02-25,2023-02-25,0,0,
+S0508,2023-12-18,Maersk,Vienna,Milan,Road,Contract,1.88,4,4,2023-12-22,2023-12-22,0,0,
+S0509,2023-07-27,Maersk,Rotterdam,Warsaw,Road,Contract,1.66,4,4,2023-07-31,2023-07-31,0,0,
+S0510,2023-06-07,FedEx,Shenzhen,Zurich,Road,Spot,1.04,5,5,2023-06-12,2023-06-12,0,0,
+S0511,2024-05-14,PKP Cargo,Hamburg,Katowice,Road,Contract,1.72,5,5,2024-05-19,2024-05-19,0,0,
+S0512,2024-07-27,FedEx,Hamburg,Katowice,Rail,Spot,2.99,5,8,2024-08-01,2024-08-04,3,1,Rail Capacity
+S0513,2023-11-08,Kuehne+Nagel,Vienna,Zurich,Road,Contract,1.1,2,2,2023-11-10,2023-11-10,0,0,
+S0514,2023-06-25,DSV,Antwerp,Katowice,Road,Contract,1.13,5,5,2023-06-30,2023-06-30,0,0,
+S0515,2024-12-18,Maersk,Paris,Zurich,Road,Contract,1.03,4,4,2024-12-22,2024-12-22,0,0,
+S0516,2023-01-17,DHL,Antwerp,Milan,Rail,Contract,2.58,7,11,2023-01-24,2023-01-28,4,1,Customs Hold
+S0517,2024-11-04,DB Schenker,Shanghai,Zurich,Road,Contract,1.74,4,6,2024-11-08,2024-11-10,2,1,Truck Shortage
+S0518,2024-12-18,UPS,Gdansk,Katowice,Sea,Contract,4.24,20,23,2025-01-07,2025-01-10,3,1,Operational Issue
+S0519,2024-05-19,DSV,Vienna,Katowice,Road,Contract,0.91,3,3,2024-05-22,2024-05-22,0,0,
+S0520,2023-01-19,FedEx,Hamburg,Munich,Rail,Spot,3.15,5,5,2023-01-24,2023-01-24,0,0,
+S0521,2023-01-07,Maersk,Gdansk,Milan,Sea,Contract,3.89,16,16,2023-01-23,2023-01-23,0,0,
+S0522,2023-06-09,UPS,Shenzhen,Prague,Sea,Contract,4.72,13,16,2023-06-22,2023-06-25,3,1,Carrier Rollover
+S0523,2023-09-29,DB Schenker,Rotterdam,Budapest,Road,Spot,1.52,2,2,2023-10-01,2023-10-01,0,0,
+S0524,2023-10-16,DHL,Shanghai,Katowice,Road,Contract,1.0,2,2,2023-10-18,2023-10-18,0,0,
+S0525,2024-07-10,PKP Cargo,Vienna,Milan,Road,Contract,1.73,2,2,2024-07-12,2024-07-12,0,0,
+S0526,2024-11-13,Kuehne+Nagel,Shenzhen,Zurich,Road,Contract,1.5,3,3,2024-11-16,2024-11-16,0,0,
+S0527,2023-09-14,UPS,Berlin,Prague,Road,Contract,1.58,5,5,2023-09-19,2023-09-19,0,0,
+S0528,2023-07-25,DSV,Prague,Poznan,Road,Contract,1.44,2,2,2023-07-27,2023-07-27,0,0,
+S0529,2024-07-25,DSV,Vienna,Munich,Road,Contract,1.44,5,5,2024-07-30,2024-07-30,0,0,
+S0530,2023-01-26,PKP Cargo,Shenzhen,Warsaw,Road,Contract,1.67,4,4,2023-01-30,2023-01-30,0,0,
+S0531,2023-10-05,DB Schenker,Shanghai,Munich,Road,Contract,1.42,5,5,2023-10-10,2023-10-10,0,0,
+S0532,2023-07-09,Kuehne+Nagel,Berlin,Katowice,Sea,Spot,4.93,19,26,2023-07-28,2023-08-04,7,1,Customs Hold
+S0533,2024-02-20,DHL,Rotterdam,Zurich,Road,Contract,0.91,3,3,2024-02-23,2024-02-23,0,0,
+S0534,2023-09-19,Maersk,Hamburg,Munich,Rail,Contract,2.46,8,8,2023-09-27,2023-09-27,0,0,
+S0535,2024-05-09,Kuehne+Nagel,Rotterdam,Poznan,Road,Spot,1.58,3,3,2024-05-12,2024-05-12,0,0,
+S0536,2023-09-24,FedEx,Berlin,Prague,Road,Contract,0.99,5,6,2023-09-29,2023-09-30,1,1,Carrier Rollover
+S0537,2023-08-27,DB Schenker,Shanghai,Munich,Road,Spot,1.39,4,4,2023-08-31,2023-08-31,0,0,
+S0538,2023-02-22,UPS,Vienna,Prague,Road,Contract,1.7,5,5,2023-02-27,2023-02-27,0,0,
+S0539,2024-12-01,PKP Cargo,Prague,Warsaw,Rail,Contract,2.89,9,9,2024-12-10,2024-12-10,0,0,
+S0540,2024-07-22,DHL,Berlin,Rotterdam,Road,Contract,1.73,2,2,2024-07-24,2024-07-24,0,0,
+S0541,2023-02-16,FedEx,Hamburg,Warsaw,Road,Spot,1.84,3,6,2023-02-19,2023-02-22,3,1,Rail Capacity
+S0542,2023-12-08,DHL,Antwerp,Munich,Road,Contract,1.44,4,4,2023-12-12,2023-12-12,0,0,
+S0543,2024-07-21,DHL,Vienna,Katowice,Rail,Contract,3.28,5,5,2024-07-26,2024-07-26,0,0,
+S0544,2024-04-22,DSV,Prague,Katowice,Road,Contract,1.56,4,4,2024-04-26,2024-04-26,0,0,
+S0545,2024-02-24,DB Schenker,Gdansk,Poznan,Rail,Spot,3.04,7,7,2024-03-02,2024-03-02,0,0,
+S0546,2024-10-28,DSV,Hamburg,Milan,Road,Contract,1.2,2,8,2024-10-30,2024-11-05,6,1,Warehouse Delay
+S0547,2023-03-20,UPS,Rotterdam,Milan,Road,Spot,1.47,2,8,2023-03-22,2023-03-28,6,1,Operational Issue
+S0548,2023-11-07,FedEx,Shanghai,Prague,Road,Contract,1.94,5,7,2023-11-12,2023-11-14,2,1,Documentation
+S0549,2023-10-07,Kuehne+Nagel,Shenzhen,Warsaw,Sea,Spot,5.11,20,20,2023-10-27,2023-10-27,0,0,
+S0550,2024-01-11,DHL,Shenzhen,Budapest,Rail,Spot,2.67,8,8,2024-01-19,2024-01-19,0,0,
+S0551,2023-11-06,Kuehne+Nagel,Prague,Brno,Road,Contract,1.34,4,4,2023-11-10,2023-11-10,0,0,
+S0552,2023-08-27,FedEx,Paris,Brno,Road,Contract,1.31,5,5,2023-09-01,2023-09-01,0,0,
+S0553,2024-06-21,Maersk,Prague,Katowice,Rail,Contract,2.73,5,5,2024-06-26,2024-06-26,0,0,
+S0554,2023-06-10,DHL,Rotterdam,Munich,Rail,Contract,2.54,5,5,2023-06-15,2023-06-15,0,0,
+S0555,2024-05-03,DHL,Vienna,Budapest,Road,Contract,0.96,5,5,2024-05-08,2024-05-08,0,0,
+S0556,2024-03-19,Maersk,Rotterdam,Budapest,Sea,Contract,3.9,18,19,2024-04-06,2024-04-07,1,1,Port Congestion
+S0557,2023-05-30,FedEx,Gdansk,Zurich,Road,Spot,1.13,2,3,2023-06-01,2023-06-02,1,1,Operational Issue
+S0558,2024-07-01,Kuehne+Nagel,Shanghai,Zurich,Road,Contract,1.57,3,3,2024-07-04,2024-07-04,0,0,
+S0559,2024-12-09,Maersk,Rotterdam,Warsaw,Road,Spot,1.56,5,5,2024-12-14,2024-12-14,0,0,
+S0560,2024-12-03,Maersk,Rotterdam,Katowice,Road,Contract,1.62,2,4,2024-12-05,2024-12-07,2,1,Truck Shortage
+S0561,2023-06-10,PKP Cargo,Rotterdam,Milan,Road,Spot,1.93,5,5,2023-06-15,2023-06-15,0,0,
+S0562,2023-05-10,Maersk,Rotterdam,Prague,Road,Spot,0.99,2,2,2023-05-12,2023-05-12,0,0,
+S0563,2024-03-22,FedEx,Antwerp,Poznan,Road,Contract,1.13,2,7,2024-03-24,2024-03-29,5,1,Operational Issue
+S0564,2023-03-15,Kuehne+Nagel,Berlin,Milan,Road,Contract,1.07,2,4,2023-03-17,2023-03-19,2,1,Operational Issue
+S0565,2024-11-11,DB Schenker,Antwerp,Warsaw,Road,Contract,1.78,3,3,2024-11-14,2024-11-14,0,0,
+S0566,2024-11-29,Kuehne+Nagel,Paris,Brno,Sea,Contract,4.89,16,20,2024-12-15,2024-12-19,4,1,Port Congestion
+S0567,2024-03-30,DB Schenker,Shanghai,Brno,Sea,Contract,4.63,21,21,2024-04-20,2024-04-20,0,0,
+S0568,2023-04-26,Maersk,Antwerp,Poznan,Road,Contract,1.12,4,4,2023-04-30,2023-04-30,0,0,
+S0569,2024-10-26,DSV,Prague,Katowice,Sea,Contract,4.29,19,19,2024-11-14,2024-11-14,0,0,
+S0570,2023-05-17,DHL,Berlin,Rotterdam,Road,Contract,1.03,3,3,2023-05-20,2023-05-20,0,0,
+S0571,2023-04-19,Kuehne+Nagel,Shenzhen,Warsaw,Road,Spot,1.29,2,2,2023-04-21,2023-04-21,0,0,
+S0572,2023-07-10,Maersk,Shanghai,Warsaw,Road,Contract,1.8,3,3,2023-07-13,2023-07-13,0,0,
+S0573,2023-02-15,Kuehne+Nagel,Shanghai,Zurich,Road,Contract,1.27,2,4,2023-02-17,2023-02-19,2,1,Equipment Shortage
+S0574,2023-10-18,FedEx,Shanghai,Zurich,Road,Contract,1.09,4,4,2023-10-22,2023-10-22,0,0,
+S0575,2024-10-21,FedEx,Antwerp,Poznan,Road,Spot,1.71,4,8,2024-10-25,2024-10-29,4,1,Operational Issue
+S0576,2023-06-17,UPS,Berlin,Poznan,Road,Contract,1.43,4,7,2023-06-21,2023-06-24,3,1,Truck Shortage
+S0577,2024-04-03,PKP Cargo,Gdansk,Zurich,Road,Contract,1.67,3,3,2024-04-06,2024-04-06,0,0,
+S0578,2023-10-21,DSV,Antwerp,Zurich,Road,Contract,0.97,2,2,2023-10-23,2023-10-23,0,0,
+S0579,2023-11-11,PKP Cargo,Shenzhen,Munich,Road,Contract,1.31,2,2,2023-11-13,2023-11-13,0,0,
+S0580,2023-05-12,DSV,Berlin,Milan,Road,Contract,1.45,4,4,2023-05-16,2023-05-16,0,0,
+S0581,2023-02-06,FedEx,Prague,Katowice,Sea,Spot,4.69,12,15,2023-02-18,2023-02-21,3,1,Equipment Shortage
+S0582,2024-04-21,DB Schenker,Shanghai,Budapest,Sea,Spot,5.89,14,14,2024-05-05,2024-05-05,0,0,
+S0583,2023-12-26,Kuehne+Nagel,Hamburg,Zurich,Sea,Contract,5.3,20,23,2024-01-15,2024-01-18,3,1,Port Congestion
+S0584,2024-07-31,DSV,Hamburg,Warsaw,Road,Contract,1.73,3,3,2024-08-03,2024-08-03,0,0,
+S0585,2024-11-03,DHL,Antwerp,Milan,Road,Contract,1.92,5,6,2024-11-08,2024-11-09,1,1,Truck Shortage
+S0586,2023-04-25,DSV,Prague,Zurich,Road,Contract,1.31,2,2,2023-04-27,2023-04-27,0,0,
+S0587,2024-12-24,PKP Cargo,Shanghai,Warsaw,Road,Contract,1.96,3,3,2024-12-27,2024-12-27,0,0,
+S0588,2024-03-21,PKP Cargo,Paris,Milan,Rail,Spot,3.07,8,12,2024-03-29,2024-04-02,4,1,Carrier Rollover
+S0589,2023-04-16,DB Schenker,Vienna,Prague,Rail,Contract,2.47,8,8,2023-04-24,2023-04-24,0,0,
+S0590,2024-08-16,DHL,Rotterdam,Poznan,Road,Contract,1.89,5,5,2024-08-21,2024-08-21,0,0,
+S0591,2023-07-21,DB Schenker,Berlin,Brno,Road,Contract,1.47,4,4,2023-07-25,2023-07-25,0,0,
+S0592,2024-09-28,PKP Cargo,Rotterdam,Prague,Sea,Contract,4.8,14,14,2024-10-12,2024-10-12,0,0,
+S0593,2023-04-20,Maersk,Shenzhen,Zurich,Sea,Contract,3.8,21,21,2023-05-11,2023-05-11,0,0,
+S0594,2024-12-01,DB Schenker,Rotterdam,Budapest,Rail,Contract,3.24,8,8,2024-12-09,2024-12-09,0,0,
+S0595,2023-06-26,PKP Cargo,Gdansk,Budapest,Sea,Spot,4.94,13,13,2023-07-09,2023-07-09,0,0,
+S0596,2023-12-30,DSV,Prague,Milan,Road,Spot,1.81,4,6,2024-01-03,2024-01-05,2,1,Truck Shortage
+S0597,2023-11-25,Maersk,Paris,Budapest,Road,Spot,1.97,5,5,2023-11-30,2023-11-30,0,0,
+S0598,2024-12-16,Maersk,Antwerp,Brno,Sea,Contract,4.46,14,19,2024-12-30,2025-01-04,5,1,Warehouse Delay
+S0599,2024-11-11,FedEx,Gdansk,Brno,Road,Contract,1.38,3,6,2024-11-14,2024-11-17,3,1,Truck Shortage
+S0600,2023-12-28,DB Schenker,Berlin,Budapest,Rail,Spot,3.45,9,9,2024-01-06,2024-01-06,0,0,
+S0601,2024-01-23,UPS,Paris,Brno,Road,Spot,1.06,3,5,2024-01-26,2024-01-28,2,1,Customs Hold
+S0602,2023-12-17,PKP Cargo,Antwerp,Brno,Road,Contract,1.05,5,5,2023-12-22,2023-12-22,0,0,
+S0603,2024-05-07,DHL,Prague,Warsaw,Road,Contract,1.1,3,3,2024-05-10,2024-05-10,0,0,
+S0604,2024-05-26,DB Schenker,Vienna,Rotterdam,Sea,Spot,5.62,16,16,2024-06-11,2024-06-11,0,0,
+S0605,2023-08-08,Maersk,Gdansk,Poznan,Road,Contract,1.24,4,4,2023-08-12,2023-08-12,0,0,
+S0606,2023-08-10,DHL,Prague,Rotterdam,Road,Spot,1.07,5,5,2023-08-15,2023-08-15,0,0,
+S0607,2024-11-05,DHL,Berlin,Rotterdam,Road,Contract,1.93,2,2,2024-11-07,2024-11-07,0,0,
+S0608,2024-01-05,DB Schenker,Paris,Katowice,Road,Contract,1.31,3,3,2024-01-08,2024-01-08,0,0,
+S0609,2023-07-06,DB Schenker,Antwerp,Milan,Sea,Contract,5.2,16,16,2023-07-22,2023-07-22,0,0,
+S0610,2024-04-28,UPS,Shanghai,Warsaw,Rail,Spot,3.19,7,14,2024-05-05,2024-05-12,7,1,Weather
+S0611,2023-03-11,FedEx,Berlin,Munich,Road,Contract,0.92,5,5,2023-03-16,2023-03-16,0,0,
+S0612,2024-08-07,Kuehne+Nagel,Gdansk,Poznan,Road,Spot,1.64,5,5,2024-08-12,2024-08-12,0,0,
+S0613,2024-05-04,DB Schenker,Gdansk,Munich,Rail,Contract,3.09,5,5,2024-05-09,2024-05-09,0,0,
+S0614,2023-09-27,PKP Cargo,Hamburg,Poznan,Sea,Contract,4.6,17,17,2023-10-14,2023-10-14,0,0,
+S0615,2024-08-28,Maersk,Shanghai,Prague,Road,Spot,1.72,4,6,2024-09-01,2024-09-03,2,1,Truck Shortage
+S0616,2024-04-19,UPS,Shanghai,Zurich,Road,Contract,1.55,3,3,2024-04-22,2024-04-22,0,0,
+S0617,2023-01-05,DSV,Rotterdam,Milan,Road,Contract,0.93,5,5,2023-01-10,2023-01-10,0,0,
+S0618,2024-08-01,Kuehne+Nagel,Rotterdam,Brno,Road,Contract,1.23,4,4,2024-08-05,2024-08-05,0,0,
+S0619,2023-05-03,DB Schenker,Paris,Munich,Rail,Spot,2.97,6,6,2023-05-09,2023-05-09,0,0,
+S0620,2024-05-15,DSV,Paris,Brno,Sea,Contract,5.4,17,19,2024-06-01,2024-06-03,2,1,Carrier Rollover
+S0621,2023-11-12,DHL,Gdansk,Poznan,Sea,Contract,4.81,21,21,2023-12-03,2023-12-03,0,0,
+S0622,2023-03-14,FedEx,Gdansk,Warsaw,Road,Spot,1.04,4,4,2023-03-18,2023-03-18,0,0,
+S0623,2023-09-14,Kuehne+Nagel,Rotterdam,Brno,Road,Contract,0.95,5,5,2023-09-19,2023-09-19,0,0,
+S0624,2024-01-27,UPS,Vienna,Milan,Rail,Spot,2.72,8,12,2024-02-04,2024-02-08,4,1,Customs Hold
+S0625,2024-02-23,Kuehne+Nagel,Prague,Poznan,Road,Spot,1.02,4,9,2024-02-27,2024-03-03,5,1,Carrier Rollover
+S0626,2023-08-08,DSV,Prague,Zurich,Road,Contract,1.78,2,2,2023-08-10,2023-08-10,0,0,
+S0627,2024-02-11,DSV,Prague,Budapest,Road,Spot,1.46,2,2,2024-02-13,2024-02-13,0,0,
+S0628,2024-09-29,DHL,Berlin,Brno,Sea,Contract,4.49,20,20,2024-10-19,2024-10-19,0,0,
+S0629,2023-05-27,DSV,Paris,Warsaw,Road,Contract,1.49,2,2,2023-05-29,2023-05-29,0,0,
+S0630,2024-01-19,PKP Cargo,Gdansk,Rotterdam,Road,Contract,0.96,2,2,2024-01-21,2024-01-21,0,0,
+S0631,2024-03-06,FedEx,Shanghai,Munich,Sea,Contract,3.83,22,22,2024-03-28,2024-03-28,0,0,
+S0632,2024-02-21,UPS,Berlin,Brno,Road,Contract,1.15,4,4,2024-02-25,2024-02-25,0,0,
+S0633,2023-11-17,FedEx,Paris,Prague,Sea,Contract,5.72,22,27,2023-12-09,2023-12-14,5,1,Port Congestion
+S0634,2024-12-15,UPS,Rotterdam,Katowice,Road,Contract,1.92,4,8,2024-12-19,2024-12-23,4,1,Carrier Rollover
+S0635,2024-06-01,DB Schenker,Paris,Brno,Road,Contract,1.35,5,5,2024-06-06,2024-06-06,0,0,
+S0636,2024-05-30,DSV,Hamburg,Prague,Road,Contract,1.03,4,4,2024-06-03,2024-06-03,0,0,
+S0637,2023-06-09,PKP Cargo,Berlin,Poznan,Road,Contract,1.19,5,5,2023-06-14,2023-06-14,0,0,
+S0638,2024-11-21,DB Schenker,Shanghai,Budapest,Road,Contract,1.72,3,3,2024-11-24,2024-11-24,0,0,
+S0639,2024-08-04,DSV,Paris,Katowice,Road,Contract,1.64,5,5,2024-08-09,2024-08-09,0,0,
+S0640,2024-05-11,FedEx,Shenzhen,Katowice,Rail,Spot,3.09,7,7,2024-05-18,2024-05-18,0,0,
+S0641,2023-03-13,DHL,Gdansk,Brno,Road,Contract,1.52,2,2,2023-03-15,2023-03-15,0,0,
+S0642,2023-11-11,DB Schenker,Berlin,Rotterdam,Road,Contract,1.86,5,7,2023-11-16,2023-11-18,2,1,Port Congestion
+S0643,2024-08-23,Maersk,Gdansk,Budapest,Road,Contract,1.12,2,2,2024-08-25,2024-08-25,0,0,
+S0644,2024-12-13,PKP Cargo,Antwerp,Katowice,Rail,Spot,2.9,7,7,2024-12-20,2024-12-20,0,0,
+S0645,2024-01-23,DB Schenker,Shenzhen,Zurich,Road,Contract,1.04,5,5,2024-01-28,2024-01-28,0,0,
+S0646,2024-10-06,Maersk,Vienna,Warsaw,Road,Contract,1.65,3,8,2024-10-09,2024-10-14,5,1,Carrier Rollover
+S0647,2023-10-04,DB Schenker,Prague,Rotterdam,Rail,Contract,2.84,8,15,2023-10-12,2023-10-19,7,1,Port Congestion
+S0648,2024-04-14,DSV,Gdansk,Budapest,Road,Contract,1.14,4,4,2024-04-18,2024-04-18,0,0,
+S0649,2023-08-30,Maersk,Prague,Munich,Road,Contract,1.26,2,2,2023-09-01,2023-09-01,0,0,
+S0650,2024-03-01,Maersk,Hamburg,Prague,Road,Contract,1.01,3,3,2024-03-04,2024-03-04,0,0,
+S0651,2023-06-05,DSV,Rotterdam,Brno,Road,Spot,1.95,5,5,2023-06-10,2023-06-10,0,0,
+S0652,2024-08-13,UPS,Vienna,Milan,Road,Contract,1.73,5,9,2024-08-18,2024-08-22,4,1,Equipment Shortage
+S0653,2023-01-07,UPS,Berlin,Prague,Road,Contract,1.23,3,3,2023-01-10,2023-01-10,0,0,
+S0654,2024-09-29,FedEx,Shanghai,Milan,Road,Spot,1.01,2,2,2024-10-01,2024-10-01,0,0,
+S0655,2023-02-01,DHL,Berlin,Prague,Road,Spot,1.21,2,2,2023-02-03,2023-02-03,0,0,
+S0656,2023-07-05,DSV,Shanghai,Poznan,Road,Contract,1.46,3,3,2023-07-08,2023-07-08,0,0,
+S0657,2024-05-21,DHL,Hamburg,Milan,Road,Contract,1.41,3,3,2024-05-24,2024-05-24,0,0,
+S0658,2024-06-18,UPS,Paris,Budapest,Road,Spot,1.15,2,2,2024-06-20,2024-06-20,0,0,
+S0659,2024-04-16,Maersk,Shenzhen,Munich,Sea,Contract,4.19,13,13,2024-04-29,2024-04-29,0,0,
+S0660,2023-04-30,FedEx,Berlin,Poznan,Sea,Contract,5.23,14,14,2023-05-14,2023-05-14,0,0,
+S0661,2023-01-20,DSV,Vienna,Prague,Rail,Spot,3.22,9,10,2023-01-29,2023-01-30,1,1,Rail Capacity
+S0662,2024-09-23,Maersk,Berlin,Rotterdam,Sea,Spot,4.9,16,21,2024-10-09,2024-10-14,5,1,Equipment Shortage
+S0663,2023-02-11,FedEx,Rotterdam,Poznan,Rail,Spot,2.96,9,9,2023-02-20,2023-02-20,0,0,
+S0664,2023-07-06,Maersk,Hamburg,Munich,Road,Contract,1.29,2,4,2023-07-08,2023-07-10,2,1,Equipment Shortage
+S0665,2023-08-22,DB Schenker,Antwerp,Zurich,Sea,Contract,4.46,12,13,2023-09-03,2023-09-04,1,1,Equipment Shortage
+S0666,2023-06-05,DHL,Antwerp,Rotterdam,Rail,Contract,3.34,9,13,2023-06-14,2023-06-18,4,1,Truck Shortage
+S0667,2023-08-07,FedEx,Prague,Poznan,Sea,Spot,5.88,12,12,2023-08-19,2023-08-19,0,0,
+S0668,2024-04-07,Kuehne+Nagel,Rotterdam,Budapest,Road,Spot,1.63,2,2,2024-04-09,2024-04-09,0,0,
+S0669,2024-03-19,Kuehne+Nagel,Rotterdam,Budapest,Sea,Contract,4.03,16,16,2024-04-04,2024-04-04,0,0,
+S0670,2023-04-26,PKP Cargo,Antwerp,Budapest,Road,Spot,1.04,3,6,2023-04-29,2023-05-02,3,1,Port Congestion
+S0671,2024-11-14,UPS,Shenzhen,Prague,Rail,Contract,3.31,8,8,2024-11-22,2024-11-22,0,0,
+S0672,2024-10-30,PKP Cargo,Hamburg,Milan,Road,Spot,1.58,3,3,2024-11-02,2024-11-02,0,0,
+S0673,2023-07-06,Kuehne+Nagel,Gdansk,Prague,Rail,Spot,3.45,5,5,2023-07-11,2023-07-11,0,0,
+S0674,2023-07-24,Maersk,Shanghai,Poznan,Sea,Spot,4.84,13,13,2023-08-06,2023-08-06,0,0,
+S0675,2023-04-07,DB Schenker,Vienna,Prague,Road,Contract,1.6,2,2,2023-04-09,2023-04-09,0,0,
+S0676,2024-09-02,FedEx,Gdansk,Milan,Road,Contract,1.67,3,3,2024-09-05,2024-09-05,0,0,
+S0677,2024-08-12,DHL,Vienna,Katowice,Road,Spot,1.59,5,7,2024-08-17,2024-08-19,2,1,Documentation
+S0678,2023-07-18,DHL,Vienna,Zurich,Road,Contract,1.77,2,2,2023-07-20,2023-07-20,0,0,
+S0679,2023-09-29,DB Schenker,Antwerp,Brno,Road,Contract,1.78,3,3,2023-10-02,2023-10-02,0,0,
+S0680,2024-03-31,Kuehne+Nagel,Gdansk,Budapest,Road,Contract,1.16,2,2,2024-04-02,2024-04-02,0,0,
+S0681,2024-04-07,DB Schenker,Antwerp,Warsaw,Road,Contract,1.63,4,5,2024-04-11,2024-04-12,1,1,Port Congestion
+S0682,2023-01-06,FedEx,Antwerp,Prague,Road,Spot,1.93,2,2,2023-01-08,2023-01-08,0,0,
+S0683,2024-12-13,Kuehne+Nagel,Vienna,Rotterdam,Rail,Contract,3.12,9,9,2024-12-22,2024-12-22,0,0,
+S0684,2023-06-30,PKP Cargo,Rotterdam,Budapest,Sea,Contract,4.45,17,17,2023-07-17,2023-07-17,0,0,
+S0685,2023-01-07,PKP Cargo,Vienna,Zurich,Rail,Contract,2.61,6,6,2023-01-13,2023-01-13,0,0,
+S0686,2024-06-06,Maersk,Rotterdam,Munich,Road,Contract,1.41,4,4,2024-06-10,2024-06-10,0,0,
+S0687,2023-12-21,DSV,Vienna,Poznan,Road,Contract,1.48,4,4,2023-12-25,2023-12-25,0,0,
+S0688,2024-07-03,DB Schenker,Gdansk,Prague,Road,Contract,1.55,5,9,2024-07-08,2024-07-12,4,1,Warehouse Delay
+S0689,2023-09-16,UPS,Shanghai,Rotterdam,Road,Contract,1.08,4,11,2023-09-20,2023-09-27,7,1,Operational Issue
+S0690,2024-11-08,FedEx,Shanghai,Brno,Road,Contract,1.31,3,3,2024-11-11,2024-11-11,0,0,
+S0691,2023-07-22,DHL,Gdansk,Brno,Road,Contract,1.84,3,3,2023-07-25,2023-07-25,0,0,
+S0692,2024-07-25,DSV,Vienna,Brno,Rail,Contract,3.14,9,9,2024-08-03,2024-08-03,0,0,
+S0693,2023-05-14,Maersk,Hamburg,Prague,Sea,Contract,4.98,22,23,2023-06-05,2023-06-06,1,1,Warehouse Delay
+S0694,2023-02-26,Kuehne+Nagel,Shanghai,Brno,Rail,Contract,2.35,7,7,2023-03-05,2023-03-05,0,0,
+S0695,2024-12-18,DSV,Gdansk,Brno,Sea,Spot,5.76,12,16,2024-12-30,2025-01-03,4,1,Port Congestion
+S0696,2024-01-05,DSV,Hamburg,Poznan,Road,Contract,1.65,5,5,2024-01-10,2024-01-10,0,0,
+S0697,2023-01-01,Kuehne+Nagel,Shenzhen,Milan,Road,Contract,1.56,5,5,2023-01-06,2023-01-06,0,0,
+S0698,2024-12-12,DHL,Berlin,Warsaw,Road,Contract,1.71,5,9,2024-12-17,2024-12-21,4,1,Warehouse Delay
+S0699,2023-09-01,Kuehne+Nagel,Hamburg,Rotterdam,Sea,Contract,5.36,15,15,2023-09-16,2023-09-16,0,0,
+S0700,2023-11-15,PKP Cargo,Hamburg,Budapest,Road,Contract,1.36,2,2,2023-11-17,2023-11-17,0,0,
+S0701,2024-03-14,DHL,Berlin,Brno,Road,Spot,1.02,3,3,2024-03-17,2024-03-17,0,0,
+S0702,2023-12-23,Maersk,Prague,Zurich,Road,Spot,1.59,4,4,2023-12-27,2023-12-27,0,0,
+S0703,2023-05-01,FedEx,Vienna,Katowice,Road,Contract,1.59,3,3,2023-05-04,2023-05-04,0,0,
+S0704,2023-05-31,Maersk,Paris,Poznan,Rail,Contract,2.5,7,7,2023-06-07,2023-06-07,0,0,
+S0705,2024-12-30,DB Schenker,Berlin,Budapest,Road,Spot,1.55,2,2,2025-01-01,2025-01-01,0,0,
+S0706,2023-06-27,FedEx,Vienna,Poznan,Sea,Spot,5.8,17,17,2023-07-14,2023-07-14,0,0,
+S0707,2023-01-16,Kuehne+Nagel,Prague,Budapest,Rail,Contract,2.44,9,9,2023-01-25,2023-01-25,0,0,
+S0708,2024-09-14,UPS,Vienna,Prague,Road,Spot,1.18,5,5,2024-09-19,2024-09-19,0,0,
+S0709,2023-03-13,PKP Cargo,Antwerp,Katowice,Road,Contract,1.06,5,5,2023-03-18,2023-03-18,0,0,
+S0710,2023-08-11,DSV,Berlin,Katowice,Sea,Contract,5.26,14,16,2023-08-25,2023-08-27,2,1,Customs Hold
+S0711,2023-06-21,UPS,Paris,Munich,Rail,Contract,3.22,9,9,2023-06-30,2023-06-30,0,0,
+S0712,2024-03-11,Maersk,Gdansk,Warsaw,Rail,Contract,2.6,6,6,2024-03-17,2024-03-17,0,0,
+S0713,2023-09-29,Kuehne+Nagel,Hamburg,Brno,Road,Contract,1.31,4,5,2023-10-03,2023-10-04,1,1,Documentation
+S0714,2023-01-17,Kuehne+Nagel,Shanghai,Milan,Road,Spot,1.17,5,7,2023-01-22,2023-01-24,2,1,Weather
+S0715,2024-01-09,DHL,Vienna,Munich,Road,Contract,0.98,2,2,2024-01-11,2024-01-11,0,0,
+S0716,2023-01-19,FedEx,Vienna,Zurich,Road,Contract,1.04,3,3,2023-01-22,2023-01-22,0,0,
+S0717,2024-04-10,DSV,Gdansk,Katowice,Road,Spot,1.7,5,5,2024-04-15,2024-04-15,0,0,
+S0718,2023-06-07,DSV,Prague,Poznan,Road,Contract,1.52,4,4,2023-06-11,2023-06-11,0,0,
+S0719,2023-12-29,UPS,Vienna,Warsaw,Road,Contract,1.03,2,2,2023-12-31,2023-12-31,0,0,
+S0720,2023-01-12,PKP Cargo,Rotterdam,Munich,Road,Spot,1.51,3,3,2023-01-15,2023-01-15,0,0,
+S0721,2024-12-31,DHL,Prague,Milan,Road,Contract,1.36,4,4,2025-01-04,2025-01-04,0,0,
+S0722,2023-04-23,FedEx,Gdansk,Brno,Sea,Contract,4.74,12,13,2023-05-05,2023-05-06,1,1,Carrier Rollover
+S0723,2024-03-28,Maersk,Gdansk,Zurich,Road,Contract,1.07,2,2,2024-03-30,2024-03-30,0,0,
+S0724,2023-04-27,UPS,Shanghai,Poznan,Sea,Contract,4.52,14,17,2023-05-11,2023-05-14,3,1,Customs Hold
+S0725,2024-06-11,DHL,Paris,Prague,Road,Spot,1.55,4,4,2024-06-15,2024-06-15,0,0,
+S0726,2024-11-12,DB Schenker,Prague,Munich,Rail,Spot,3.15,5,10,2024-11-17,2024-11-22,5,1,Truck Shortage
+S0727,2024-11-20,DB Schenker,Rotterdam,Brno,Sea,Contract,4.92,15,19,2024-12-05,2024-12-09,4,1,Rail Capacity
+S0728,2024-03-20,Kuehne+Nagel,Shanghai,Milan,Sea,Spot,5.5,14,16,2024-04-03,2024-04-05,2,1,Truck Shortage
+S0729,2023-11-05,DSV,Antwerp,Munich,Road,Contract,1.88,3,5,2023-11-08,2023-11-10,2,1,Weather
+S0730,2024-07-25,UPS,Paris,Zurich,Sea,Spot,5.25,14,14,2024-08-08,2024-08-08,0,0,
+S0731,2023-04-22,FedEx,Berlin,Rotterdam,Road,Spot,1.73,5,5,2023-04-27,2023-04-27,0,0,
+S0732,2024-05-12,Maersk,Hamburg,Prague,Road,Contract,1.23,4,4,2024-05-16,2024-05-16,0,0,
+S0733,2023-01-29,DHL,Hamburg,Milan,Road,Contract,1.18,5,6,2023-02-03,2023-02-04,1,1,Truck Shortage
+S0734,2023-06-14,DB Schenker,Gdansk,Brno,Sea,Contract,4.84,17,19,2023-07-01,2023-07-03,2,1,Port Congestion
+S0735,2023-01-26,Kuehne+Nagel,Shanghai,Brno,Sea,Contract,5.19,14,14,2023-02-09,2023-02-09,0,0,
+S0736,2023-02-03,FedEx,Gdansk,Budapest,Road,Spot,1.38,4,4,2023-02-07,2023-02-07,0,0,
+S0737,2023-04-14,DB Schenker,Paris,Poznan,Road,Contract,1.5,2,2,2023-04-16,2023-04-16,0,0,
+S0738,2023-01-31,DHL,Vienna,Poznan,Road,Spot,1.88,2,2,2023-02-02,2023-02-02,0,0,
+S0739,2023-03-07,DHL,Antwerp,Poznan,Road,Contract,1.38,5,7,2023-03-12,2023-03-14,2,1,Rail Capacity
+S0740,2023-12-24,UPS,Prague,Katowice,Road,Contract,1.09,4,4,2023-12-28,2023-12-28,0,0,
+S0741,2023-06-16,UPS,Hamburg,Rotterdam,Road,Contract,1.45,3,3,2023-06-19,2023-06-19,0,0,
+S0742,2023-02-17,Kuehne+Nagel,Paris,Milan,Road,Spot,1.47,5,6,2023-02-22,2023-02-23,1,1,Carrier Rollover
+S0743,2023-11-24,PKP Cargo,Rotterdam,Brno,Road,Contract,1.04,4,5,2023-11-28,2023-11-29,1,1,Equipment Shortage
+S0744,2023-03-01,DSV,Berlin,Rotterdam,Road,Spot,1.79,5,5,2023-03-06,2023-03-06,0,0,
+S0745,2023-07-24,PKP Cargo,Shenzhen,Budapest,Sea,Contract,4.03,21,21,2023-08-14,2023-08-14,0,0,
+S0746,2024-03-06,UPS,Shanghai,Milan,Road,Contract,1.13,2,2,2024-03-08,2024-03-08,0,0,
+S0747,2023-04-07,DB Schenker,Prague,Warsaw,Sea,Spot,5.17,20,26,2023-04-27,2023-05-03,6,1,Documentation
+S0748,2023-08-24,Kuehne+Nagel,Paris,Brno,Sea,Contract,4.68,15,15,2023-09-08,2023-09-08,0,0,
+S0749,2023-09-18,UPS,Rotterdam,Prague,Road,Contract,1.45,3,3,2023-09-21,2023-09-21,0,0,
+S0750,2024-04-27,FedEx,Gdansk,Budapest,Sea,Contract,4.62,13,18,2024-05-10,2024-05-15,5,1,Truck Shortage
+S0751,2024-06-27,DHL,Antwerp,Munich,Sea,Spot,6.02,17,17,2024-07-14,2024-07-14,0,0,
+S0752,2023-09-05,PKP Cargo,Gdansk,Munich,Road,Spot,1.73,4,5,2023-09-09,2023-09-10,1,1,Operational Issue
+S0753,2024-12-01,Kuehne+Nagel,Shanghai,Milan,Road,Spot,1.43,3,5,2024-12-04,2024-12-06,2,1,Truck Shortage
+S0754,2023-06-12,DB Schenker,Paris,Budapest,Road,Contract,1.58,2,5,2023-06-14,2023-06-17,3,1,Port Congestion
+S0755,2023-11-30,Kuehne+Nagel,Hamburg,Milan,Rail,Contract,2.7,8,8,2023-12-08,2023-12-08,0,0,
+S0756,2024-04-10,FedEx,Rotterdam,Munich,Road,Spot,1.0,2,2,2024-04-12,2024-04-12,0,0,
+S0757,2023-05-07,DHL,Antwerp,Brno,Road,Spot,1.11,5,5,2023-05-12,2023-05-12,0,0,
+S0758,2024-11-12,DSV,Berlin,Munich,Road,Contract,1.73,5,10,2024-11-17,2024-11-22,5,1,Truck Shortage
+S0759,2023-07-05,DSV,Antwerp,Brno,Road,Contract,1.0,5,8,2023-07-10,2023-07-13,3,1,Port Congestion
+S0760,2024-12-09,Maersk,Prague,Warsaw,Road,Contract,1.46,5,5,2024-12-14,2024-12-14,0,0,
+S0761,2024-07-29,DHL,Hamburg,Budapest,Sea,Spot,5.33,22,22,2024-08-20,2024-08-20,0,0,
+S0762,2024-11-08,DB Schenker,Prague,Rotterdam,Road,Contract,1.13,3,3,2024-11-11,2024-11-11,0,0,
+S0763,2024-04-10,DSV,Shanghai,Munich,Rail,Spot,2.54,7,7,2024-04-17,2024-04-17,0,0,
+S0764,2024-06-15,DB Schenker,Shenzhen,Rotterdam,Road,Contract,1.44,3,3,2024-06-18,2024-06-18,0,0,
+S0765,2023-10-15,UPS,Berlin,Zurich,Road,Contract,1.26,4,4,2023-10-19,2023-10-19,0,0,
+S0766,2024-09-14,Kuehne+Nagel,Paris,Poznan,Road,Contract,1.02,3,7,2024-09-17,2024-09-21,4,1,Truck Shortage
+S0767,2023-03-08,Maersk,Shenzhen,Budapest,Rail,Contract,3.05,8,8,2023-03-16,2023-03-16,0,0,
+S0768,2023-06-29,UPS,Shanghai,Zurich,Road,Contract,1.38,2,2,2023-07-01,2023-07-01,0,0,
+S0769,2024-11-07,PKP Cargo,Hamburg,Budapest,Road,Contract,1.25,5,5,2024-11-12,2024-11-12,0,0,
+S0770,2024-05-11,DSV,Gdansk,Zurich,Road,Contract,1.21,3,3,2024-05-14,2024-05-14,0,0,
+S0771,2023-03-21,Maersk,Shenzhen,Brno,Sea,Contract,4.29,14,14,2023-04-04,2023-04-04,0,0,
+S0772,2024-10-24,FedEx,Hamburg,Brno,Road,Contract,1.03,4,4,2024-10-28,2024-10-28,0,0,
+S0773,2024-05-23,Maersk,Shanghai,Munich,Road,Contract,1.18,2,2,2024-05-25,2024-05-25,0,0,
+S0774,2024-08-27,Kuehne+Nagel,Shanghai,Poznan,Road,Spot,1.58,4,4,2024-08-31,2024-08-31,0,0,
+S0775,2023-12-29,DSV,Gdansk,Munich,Road,Contract,1.54,2,2,2023-12-31,2023-12-31,0,0,
+S0776,2023-02-16,DSV,Gdansk,Rotterdam,Road,Contract,1.62,3,3,2023-02-19,2023-02-19,0,0,
+S0777,2024-07-18,Maersk,Berlin,Prague,Road,Contract,1.81,4,4,2024-07-22,2024-07-22,0,0,
+S0778,2024-10-03,DHL,Shenzhen,Poznan,Road,Spot,1.46,5,7,2024-10-08,2024-10-10,2,1,Customs Hold
+S0779,2023-06-13,Maersk,Shenzhen,Budapest,Sea,Spot,6.22,13,16,2023-06-26,2023-06-29,3,1,Equipment Shortage
+S0780,2023-05-03,DSV,Shanghai,Zurich,Road,Contract,1.52,3,3,2023-05-06,2023-05-06,0,0,
+S0781,2023-09-26,Kuehne+Nagel,Vienna,Rotterdam,Road,Contract,1.25,5,6,2023-10-01,2023-10-02,1,1,Weather
+S0782,2023-11-05,DB Schenker,Hamburg,Poznan,Road,Contract,1.42,2,2,2023-11-07,2023-11-07,0,0,
+S0783,2023-01-03,DHL,Gdansk,Brno,Road,Spot,1.6,3,8,2023-01-06,2023-01-11,5,1,Carrier Rollover
+S0784,2023-03-31,PKP Cargo,Rotterdam,Munich,Road,Contract,1.01,4,4,2023-04-04,2023-04-04,0,0,
+S0785,2024-07-24,DB Schenker,Berlin,Brno,Road,Spot,1.51,2,2,2024-07-26,2024-07-26,0,0,
+S0786,2024-04-03,DSV,Antwerp,Rotterdam,Road,Spot,1.47,4,4,2024-04-07,2024-04-07,0,0,
+S0787,2023-06-30,DB Schenker,Prague,Rotterdam,Sea,Contract,5.15,17,20,2023-07-17,2023-07-20,3,1,Customs Hold
+S0788,2023-10-13,DHL,Prague,Warsaw,Road,Contract,0.91,3,3,2023-10-16,2023-10-16,0,0,
+S0789,2023-03-12,FedEx,Antwerp,Prague,Road,Spot,0.97,5,5,2023-03-17,2023-03-17,0,0,
+S0790,2024-10-14,Kuehne+Nagel,Prague,Brno,Road,Contract,1.53,3,3,2024-10-17,2024-10-17,0,0,
+S0791,2023-11-22,UPS,Berlin,Zurich,Road,Contract,1.53,4,9,2023-11-26,2023-12-01,5,1,Weather
+S0792,2024-02-08,UPS,Shenzhen,Prague,Sea,Contract,4.62,22,22,2024-03-01,2024-03-01,0,0,
+S0793,2023-03-10,UPS,Antwerp,Rotterdam,Road,Spot,0.98,3,3,2023-03-13,2023-03-13,0,0,
+S0794,2024-10-06,PKP Cargo,Berlin,Katowice,Road,Contract,0.94,3,3,2024-10-09,2024-10-09,0,0,
+S0795,2024-06-25,DHL,Vienna,Rotterdam,Road,Spot,1.28,3,4,2024-06-28,2024-06-29,1,1,Rail Capacity
+S0796,2024-07-25,Maersk,Gdansk,Zurich,Sea,Contract,5.37,13,13,2024-08-07,2024-08-07,0,0,
+S0797,2024-04-05,DSV,Hamburg,Poznan,Sea,Spot,4.77,20,21,2024-04-25,2024-04-26,1,1,Carrier Rollover
+S0798,2024-01-11,FedEx,Hamburg,Poznan,Road,Spot,1.55,3,3,2024-01-14,2024-01-14,0,0,
+S0799,2024-08-27,PKP Cargo,Rotterdam,Munich,Road,Spot,1.52,4,7,2024-08-31,2024-09-03,3,1,Equipment Shortage
+S0800,2024-11-07,FedEx,Paris,Milan,Rail,Contract,2.98,8,8,2024-11-15,2024-11-15,0,0,
+S0801,2023-02-22,UPS,Prague,Warsaw,Road,Spot,1.32,3,3,2023-02-25,2023-02-25,0,0,
+S0802,2024-08-26,Kuehne+Nagel,Prague,Brno,Road,Contract,1.32,5,5,2024-08-31,2024-08-31,0,0,
+S0803,2024-06-20,DSV,Shenzhen,Warsaw,Road,Contract,1.52,4,4,2024-06-24,2024-06-24,0,0,
+S0804,2023-09-21,DB Schenker,Berlin,Warsaw,Road,Contract,1.61,3,3,2023-09-24,2023-09-24,0,0,
+S0805,2023-11-16,UPS,Paris,Warsaw,Rail,Spot,2.88,5,5,2023-11-21,2023-11-21,0,0,
+S0806,2023-07-19,DB Schenker,Shanghai,Brno,Road,Spot,1.32,3,3,2023-07-22,2023-07-22,0,0,
+S0807,2024-04-27,DB Schenker,Shanghai,Katowice,Road,Spot,1.17,2,2,2024-04-29,2024-04-29,0,0,
+S0808,2024-11-09,DHL,Antwerp,Zurich,Road,Contract,1.28,2,2,2024-11-11,2024-11-11,0,0,
+S0809,2023-06-25,DB Schenker,Prague,Rotterdam,Road,Contract,1.3,5,5,2023-06-30,2023-06-30,0,0,
+S0810,2024-07-27,DHL,Shenzhen,Milan,Road,Contract,1.88,4,4,2024-07-31,2024-07-31,0,0,
+S0811,2024-06-07,DB Schenker,Prague,Zurich,Rail,Contract,2.81,6,6,2024-06-13,2024-06-13,0,0,
+S0812,2024-01-01,DHL,Shanghai,Munich,Sea,Contract,4.65,15,21,2024-01-16,2024-01-22,6,1,Truck Shortage
+S0813,2023-11-27,DHL,Vienna,Brno,Sea,Spot,6.02,12,17,2023-12-09,2023-12-14,5,1,Equipment Shortage
+S0814,2023-04-25,UPS,Antwerp,Rotterdam,Road,Contract,1.6,5,5,2023-04-30,2023-04-30,0,0,
+S0815,2023-11-21,FedEx,Paris,Prague,Sea,Spot,5.77,15,15,2023-12-06,2023-12-06,0,0,
+S0816,2024-09-23,Kuehne+Nagel,Shenzhen,Munich,Road,Spot,1.13,4,10,2024-09-27,2024-10-03,6,1,Rail Capacity
+S0817,2024-06-11,Maersk,Gdansk,Munich,Road,Contract,1.36,2,2,2024-06-13,2024-06-13,0,0,
+S0818,2024-09-09,PKP Cargo,Antwerp,Katowice,Sea,Spot,5.62,19,19,2024-09-28,2024-09-28,0,0,
+S0819,2024-06-05,DHL,Gdansk,Milan,Road,Spot,1.27,2,2,2024-06-07,2024-06-07,0,0,
+S0820,2023-05-19,DSV,Vienna,Warsaw,Road,Contract,1.3,3,9,2023-05-22,2023-05-28,6,1,Rail Capacity
+S0821,2024-08-19,UPS,Shanghai,Katowice,Sea,Spot,4.46,13,14,2024-09-01,2024-09-02,1,1,Equipment Shortage
+S0822,2023-04-27,DHL,Shenzhen,Prague,Rail,Contract,2.71,8,8,2023-05-05,2023-05-05,0,0,
+S0823,2023-07-22,DHL,Shenzhen,Brno,Road,Spot,1.78,4,4,2023-07-26,2023-07-26,0,0,
+S0824,2023-07-15,DHL,Rotterdam,Munich,Rail,Contract,3.26,8,15,2023-07-23,2023-07-30,7,1,Rail Capacity
+S0825,2024-03-21,DSV,Shanghai,Budapest,Road,Contract,1.04,2,2,2024-03-23,2024-03-23,0,0,
+S0826,2023-03-04,Kuehne+Nagel,Hamburg,Budapest,Road,Spot,1.52,3,3,2023-03-07,2023-03-07,0,0,
+S0827,2024-05-01,DHL,Gdansk,Budapest,Road,Spot,1.88,4,4,2024-05-05,2024-05-05,0,0,
+S0828,2023-10-17,UPS,Rotterdam,Zurich,Rail,Contract,2.62,7,7,2023-10-24,2023-10-24,0,0,
+S0829,2024-09-12,DSV,Gdansk,Munich,Rail,Contract,2.73,5,5,2024-09-17,2024-09-17,0,0,
+S0830,2024-04-20,UPS,Shanghai,Poznan,Road,Contract,1.65,4,5,2024-04-24,2024-04-25,1,1,Truck Shortage
+S0831,2024-08-24,DB Schenker,Prague,Katowice,Sea,Contract,4.97,16,16,2024-09-09,2024-09-09,0,0,
+S0832,2024-11-16,Kuehne+Nagel,Hamburg,Munich,Road,Contract,1.62,4,4,2024-11-20,2024-11-20,0,0,
+S0833,2023-02-07,PKP Cargo,Paris,Milan,Rail,Contract,2.31,8,8,2023-02-15,2023-02-15,0,0,
+S0834,2024-08-14,DSV,Antwerp,Rotterdam,Road,Contract,1.18,5,7,2024-08-19,2024-08-21,2,1,Operational Issue
+S0835,2024-08-07,DHL,Antwerp,Budapest,Road,Contract,1.83,4,4,2024-08-11,2024-08-11,0,0,
+S0836,2024-08-06,UPS,Hamburg,Budapest,Sea,Contract,5.77,17,21,2024-08-23,2024-08-27,4,1,Carrier Rollover
+S0837,2024-03-10,Maersk,Vienna,Poznan,Road,Spot,1.02,3,3,2024-03-13,2024-03-13,0,0,
+S0838,2024-05-13,Kuehne+Nagel,Shenzhen,Brno,Sea,Spot,4.86,22,24,2024-06-04,2024-06-06,2,1,Customs Hold
+S0839,2023-03-11,DSV,Antwerp,Milan,Road,Contract,1.11,4,5,2023-03-15,2023-03-16,1,1,Rail Capacity
+S0840,2024-08-27,DHL,Shanghai,Katowice,Road,Contract,1.08,3,3,2024-08-30,2024-08-30,0,0,
+S0841,2024-08-05,DSV,Antwerp,Warsaw,Sea,Spot,5.28,14,16,2024-08-19,2024-08-21,2,1,Equipment Shortage
+S0842,2023-03-03,DSV,Antwerp,Poznan,Road,Contract,1.29,4,7,2023-03-07,2023-03-10,3,1,Operational Issue
+S0843,2024-01-06,FedEx,Shanghai,Brno,Rail,Contract,3.0,6,6,2024-01-12,2024-01-12,0,0,
+S0844,2023-01-26,DHL,Shenzhen,Brno,Road,Contract,1.27,3,3,2023-01-29,2023-01-29,0,0,
+S0845,2023-04-01,PKP Cargo,Paris,Warsaw,Rail,Contract,2.4,8,8,2023-04-09,2023-04-09,0,0,
+S0846,2024-06-29,DSV,Paris,Zurich,Sea,Contract,5.49,21,24,2024-07-20,2024-07-23,3,1,Port Congestion
+S0847,2024-09-11,UPS,Berlin,Prague,Road,Contract,1.09,4,5,2024-09-15,2024-09-16,1,1,Weather
+S0848,2024-05-08,DB Schenker,Vienna,Zurich,Rail,Contract,2.4,5,5,2024-05-13,2024-05-13,0,0,
+S0849,2024-02-03,DHL,Shenzhen,Budapest,Sea,Spot,5.14,20,20,2024-02-23,2024-02-23,0,0,
+S0850,2023-12-22,Maersk,Shenzhen,Rotterdam,Sea,Contract,5.78,16,23,2024-01-07,2024-01-14,7,1,Truck Shortage
+S0851,2023-04-26,UPS,Hamburg,Budapest,Sea,Contract,4.43,20,20,2023-05-16,2023-05-16,0,0,
+S0852,2023-12-11,DB Schenker,Prague,Poznan,Road,Spot,1.22,3,3,2023-12-14,2023-12-14,0,0,
+S0853,2024-08-21,Maersk,Paris,Warsaw,Road,Contract,1.32,3,3,2024-08-24,2024-08-24,0,0,
+S0854,2024-01-05,FedEx,Paris,Katowice,Sea,Contract,5.07,12,12,2024-01-17,2024-01-17,0,0,
+S0855,2023-03-05,PKP Cargo,Antwerp,Budapest,Sea,Spot,5.06,21,21,2023-03-26,2023-03-26,0,0,
+S0856,2023-10-22,Kuehne+Nagel,Berlin,Prague,Road,Contract,1.36,5,6,2023-10-27,2023-10-28,1,1,Warehouse Delay
+S0857,2023-11-14,Maersk,Prague,Zurich,Sea,Spot,4.96,12,15,2023-11-26,2023-11-29,3,1,Carrier Rollover
+S0858,2024-10-09,Maersk,Berlin,Katowice,Road,Contract,1.16,4,6,2024-10-13,2024-10-15,2,1,Weather
+S0859,2024-08-04,FedEx,Antwerp,Brno,Road,Contract,1.77,4,4,2024-08-08,2024-08-08,0,0,
+S0860,2023-04-09,DSV,Hamburg,Katowice,Road,Contract,1.11,2,5,2023-04-11,2023-04-14,3,1,Port Congestion
+S0861,2023-06-21,Kuehne+Nagel,Shenzhen,Warsaw,Sea,Contract,4.89,12,12,2023-07-03,2023-07-03,0,0,
+S0862,2023-03-09,UPS,Rotterdam,Munich,Sea,Spot,4.9,22,28,2023-03-31,2023-04-06,6,1,Port Congestion
+S0863,2023-05-18,PKP Cargo,Gdansk,Brno,Road,Contract,1.0,3,4,2023-05-21,2023-05-22,1,1,Carrier Rollover
+S0864,2024-01-09,Kuehne+Nagel,Prague,Brno,Road,Spot,1.34,5,5,2024-01-14,2024-01-14,0,0,
+S0865,2023-07-06,Maersk,Shenzhen,Poznan,Road,Contract,1.4,2,2,2023-07-08,2023-07-08,0,0,
+S0866,2023-06-21,PKP Cargo,Hamburg,Warsaw,Sea,Contract,4.29,16,16,2023-07-07,2023-07-07,0,0,
+S0867,2024-07-25,PKP Cargo,Paris,Katowice,Road,Contract,1.63,4,4,2024-07-29,2024-07-29,0,0,
+S0868,2023-12-08,DB Schenker,Berlin,Brno,Road,Contract,1.6,3,4,2023-12-11,2023-12-12,1,1,Equipment Shortage
+S0869,2023-03-26,DSV,Shanghai,Warsaw,Road,Contract,1.18,3,3,2023-03-29,2023-03-29,0,0,
+S0870,2024-09-24,FedEx,Prague,Budapest,Sea,Contract,3.98,12,12,2024-10-06,2024-10-06,0,0,
+S0871,2023-04-10,Kuehne+Nagel,Gdansk,Munich,Road,Spot,1.3,3,3,2023-04-13,2023-04-13,0,0,
+S0872,2024-08-07,Maersk,Berlin,Rotterdam,Road,Contract,1.47,2,2,2024-08-09,2024-08-09,0,0,
+S0873,2024-08-11,DHL,Paris,Brno,Road,Contract,1.63,5,5,2024-08-16,2024-08-16,0,0,
+S0874,2024-07-28,UPS,Shanghai,Rotterdam,Road,Spot,1.16,3,3,2024-07-31,2024-07-31,0,0,
+S0875,2024-06-03,FedEx,Hamburg,Brno,Sea,Contract,5.69,21,21,2024-06-24,2024-06-24,0,0,
+S0876,2023-02-07,DHL,Shenzhen,Zurich,Road,Spot,1.13,4,4,2023-02-11,2023-02-11,0,0,
+S0877,2023-05-16,Kuehne+Nagel,Paris,Poznan,Road,Contract,1.31,2,4,2023-05-18,2023-05-20,2,1,Operational Issue
+S0878,2024-09-13,UPS,Vienna,Zurich,Sea,Spot,5.06,18,22,2024-10-01,2024-10-05,4,1,Carrier Rollover
+S0879,2024-02-02,DHL,Berlin,Zurich,Sea,Contract,3.92,12,15,2024-02-14,2024-02-17,3,1,Equipment Shortage
+S0880,2023-06-12,UPS,Shenzhen,Rotterdam,Sea,Contract,4.68,19,19,2023-07-01,2023-07-01,0,0,
+S0881,2023-12-18,PKP Cargo,Rotterdam,Warsaw,Road,Spot,1.69,3,3,2023-12-21,2023-12-21,0,0,
+S0882,2024-08-03,PKP Cargo,Gdansk,Rotterdam,Rail,Contract,2.72,9,9,2024-08-12,2024-08-12,0,0,
+S0883,2023-04-21,DHL,Vienna,Zurich,Sea,Contract,4.7,21,21,2023-05-12,2023-05-12,0,0,
+S0884,2024-12-24,Kuehne+Nagel,Antwerp,Rotterdam,Road,Contract,1.4,2,2,2024-12-26,2024-12-26,0,0,
+S0885,2024-08-18,DHL,Gdansk,Milan,Road,Contract,1.75,3,5,2024-08-21,2024-08-23,2,1,Carrier Rollover
+S0886,2023-11-29,Maersk,Shenzhen,Katowice,Road,Contract,1.73,5,6,2023-12-04,2023-12-05,1,1,Truck Shortage
+S0887,2023-10-13,FedEx,Prague,Zurich,Road,Contract,1.46,3,3,2023-10-16,2023-10-16,0,0,
+S0888,2024-09-10,Kuehne+Nagel,Hamburg,Milan,Road,Contract,1.38,2,2,2024-09-12,2024-09-12,0,0,
+S0889,2023-05-20,DHL,Gdansk,Milan,Road,Contract,1.1,2,2,2023-05-22,2023-05-22,0,0,
+S0890,2023-06-15,Kuehne+Nagel,Rotterdam,Munich,Road,Spot,1.69,5,12,2023-06-20,2023-06-27,7,1,Operational Issue
+S0891,2024-02-07,DB Schenker,Shenzhen,Rotterdam,Road,Contract,1.43,3,3,2024-02-10,2024-02-10,0,0,
+S0892,2024-03-24,FedEx,Gdansk,Munich,Rail,Spot,2.51,6,6,2024-03-30,2024-03-30,0,0,
+S0893,2024-07-06,PKP Cargo,Shanghai,Munich,Rail,Contract,2.44,9,9,2024-07-15,2024-07-15,0,0,
+S0894,2023-10-05,FedEx,Antwerp,Poznan,Road,Contract,0.91,5,6,2023-10-10,2023-10-11,1,1,Operational Issue
+S0895,2023-10-05,DHL,Berlin,Zurich,Rail,Contract,2.96,7,7,2023-10-12,2023-10-12,0,0,
+S0896,2024-02-16,PKP Cargo,Hamburg,Poznan,Rail,Contract,2.58,8,8,2024-02-24,2024-02-24,0,0,
+S0897,2023-02-18,DHL,Rotterdam,Poznan,Rail,Spot,3.05,5,6,2023-02-23,2023-02-24,1,1,Equipment Shortage
+S0898,2023-03-08,DB Schenker,Hamburg,Zurich,Road,Spot,1.24,4,4,2023-03-12,2023-03-12,0,0,
+S0899,2024-01-08,Maersk,Paris,Katowice,Sea,Contract,4.87,13,13,2024-01-21,2024-01-21,0,0,
+S0900,2024-06-03,Maersk,Prague,Zurich,Sea,Spot,4.33,17,19,2024-06-20,2024-06-22,2,1,Port Congestion
+S0901,2024-09-15,DHL,Hamburg,Munich,Road,Spot,1.85,3,6,2024-09-18,2024-09-21,3,1,Truck Shortage
+S0902,2023-10-27,Maersk,Berlin,Budapest,Sea,Spot,4.51,21,21,2023-11-17,2023-11-17,0,0,
+S0903,2023-10-11,PKP Cargo,Prague,Zurich,Road,Contract,1.74,4,4,2023-10-15,2023-10-15,0,0,
+S0904,2024-08-08,PKP Cargo,Berlin,Katowice,Road,Contract,1.8,4,4,2024-08-12,2024-08-12,0,0,
+S0905,2024-07-20,FedEx,Gdansk,Rotterdam,Road,Contract,1.75,4,4,2024-07-24,2024-07-24,0,0,
+S0906,2024-09-13,FedEx,Shanghai,Poznan,Road,Contract,1.12,3,3,2024-09-16,2024-09-16,0,0,
+S0907,2023-07-26,FedEx,Gdansk,Katowice,Road,Contract,1.42,5,5,2023-07-31,2023-07-31,0,0,
+S0908,2023-09-14,UPS,Berlin,Katowice,Road,Contract,1.31,5,6,2023-09-19,2023-09-20,1,1,Operational Issue
+S0909,2024-03-11,FedEx,Antwerp,Munich,Sea,Contract,4.87,22,22,2024-04-02,2024-04-02,0,0,
+S0910,2024-08-23,DSV,Rotterdam,Zurich,Road,Contract,1.88,3,3,2024-08-26,2024-08-26,0,0,
+S0911,2024-12-15,PKP Cargo,Vienna,Zurich,Rail,Contract,3.35,7,10,2024-12-22,2024-12-25,3,1,Operational Issue
+S0912,2024-01-17,FedEx,Rotterdam,Poznan,Road,Contract,1.7,2,9,2024-01-19,2024-01-26,7,1,Rail Capacity
+S0913,2023-12-18,DB Schenker,Rotterdam,Prague,Road,Spot,1.18,2,2,2023-12-20,2023-12-20,0,0,
+S0914,2024-06-15,DB Schenker,Shenzhen,Budapest,Road,Contract,1.3,4,4,2024-06-19,2024-06-19,0,0,
+S0915,2024-11-22,UPS,Antwerp,Prague,Road,Contract,1.85,2,2,2024-11-24,2024-11-24,0,0,
+S0916,2024-05-09,UPS,Antwerp,Warsaw,Road,Spot,1.08,2,2,2024-05-11,2024-05-11,0,0,
+S0917,2023-11-18,DSV,Rotterdam,Munich,Road,Contract,1.12,5,6,2023-11-23,2023-11-24,1,1,Documentation
+S0918,2024-04-04,DSV,Paris,Budapest,Road,Contract,1.17,4,4,2024-04-08,2024-04-08,0,0,
+S0919,2023-09-28,FedEx,Prague,Budapest,Rail,Contract,2.61,7,7,2023-10-05,2023-10-05,0,0,
+S0920,2023-03-22,DB Schenker,Berlin,Zurich,Sea,Spot,5.75,21,25,2023-04-12,2023-04-16,4,1,Carrier Rollover
+S0921,2023-02-10,DSV,Hamburg,Zurich,Road,Contract,0.97,2,9,2023-02-12,2023-02-19,7,1,Operational Issue
+S0922,2024-08-07,Kuehne+Nagel,Shenzhen,Zurich,Rail,Contract,3.26,7,7,2024-08-14,2024-08-14,0,0,
+S0923,2023-08-19,Maersk,Vienna,Milan,Road,Contract,1.45,2,2,2023-08-21,2023-08-21,0,0,
+S0924,2023-05-14,DSV,Gdansk,Milan,Road,Spot,1.58,2,2,2023-05-16,2023-05-16,0,0,
+S0925,2023-02-07,PKP Cargo,Gdansk,Prague,Sea,Contract,4.34,22,22,2023-03-01,2023-03-01,0,0,
+S0926,2024-08-11,Kuehne+Nagel,Paris,Milan,Road,Spot,1.53,2,2,2024-08-13,2024-08-13,0,0,
+S0927,2024-04-08,DSV,Berlin,Zurich,Sea,Contract,4.08,12,16,2024-04-20,2024-04-24,4,1,Customs Hold
+S0928,2024-03-17,DB Schenker,Shanghai,Budapest,Road,Contract,1.77,4,5,2024-03-21,2024-03-22,1,1,Truck Shortage
+S0929,2023-03-06,Maersk,Rotterdam,Brno,Sea,Spot,5.55,21,24,2023-03-27,2023-03-30,3,1,Truck Shortage
+S0930,2023-02-04,DB Schenker,Hamburg,Prague,Road,Contract,0.99,3,3,2023-02-07,2023-02-07,0,0,
+S0931,2024-07-17,DHL,Hamburg,Zurich,Road,Contract,1.22,5,5,2024-07-22,2024-07-22,0,0,
+S0932,2023-07-13,Maersk,Vienna,Warsaw,Road,Spot,1.53,4,5,2023-07-17,2023-07-18,1,1,Operational Issue
+S0933,2023-01-09,DSV,Vienna,Zurich,Road,Contract,1.39,5,5,2023-01-14,2023-01-14,0,0,
+S0934,2024-09-06,DB Schenker,Antwerp,Katowice,Sea,Contract,4.06,22,24,2024-09-28,2024-09-30,2,1,Operational Issue
+S0935,2023-02-03,DHL,Gdansk,Zurich,Road,Spot,1.5,3,3,2023-02-06,2023-02-06,0,0,
+S0936,2024-08-06,UPS,Paris,Brno,Road,Contract,1.78,3,3,2024-08-09,2024-08-09,0,0,
+S0937,2023-07-23,FedEx,Shenzhen,Munich,Road,Contract,1.23,2,3,2023-07-25,2023-07-26,1,1,Documentation
+S0938,2023-10-17,DB Schenker,Antwerp,Brno,Rail,Contract,3.04,8,13,2023-10-25,2023-10-30,5,1,Carrier Rollover
+S0939,2023-07-18,Maersk,Paris,Katowice,Road,Contract,1.81,5,7,2023-07-23,2023-07-25,2,1,Warehouse Delay
+S0940,2023-05-01,DHL,Shanghai,Poznan,Road,Spot,1.67,2,2,2023-05-03,2023-05-03,0,0,
+S0941,2024-07-12,DSV,Berlin,Poznan,Rail,Contract,2.82,8,8,2024-07-20,2024-07-20,0,0,
+S0942,2024-06-16,DSV,Shenzhen,Warsaw,Rail,Contract,2.96,5,8,2024-06-21,2024-06-24,3,1,Weather
+S0943,2024-11-15,FedEx,Hamburg,Brno,Road,Spot,1.52,3,6,2024-11-18,2024-11-21,3,1,Operational Issue
+S0944,2024-11-12,Maersk,Paris,Munich,Road,Contract,1.2,5,7,2024-11-17,2024-11-19,2,1,Warehouse Delay
+S0945,2024-12-14,Kuehne+Nagel,Gdansk,Zurich,Sea,Contract,5.19,21,21,2025-01-04,2025-01-04,0,0,
+S0946,2023-04-21,FedEx,Hamburg,Brno,Road,Contract,1.32,5,5,2023-04-26,2023-04-26,0,0,
+S0947,2023-03-14,FedEx,Paris,Prague,Road,Contract,1.8,4,8,2023-03-18,2023-03-22,4,1,Operational Issue
+S0948,2023-12-07,DSV,Hamburg,Warsaw,Road,Contract,1.73,2,5,2023-12-09,2023-12-12,3,1,Weather
+S0949,2023-09-02,Maersk,Antwerp,Warsaw,Rail,Spot,2.94,9,9,2023-09-11,2023-09-11,0,0,
+S0950,2024-10-20,Maersk,Vienna,Katowice,Road,Contract,1.27,4,4,2024-10-24,2024-10-24,0,0,
+S0951,2023-01-21,DHL,Vienna,Warsaw,Road,Contract,1.08,2,4,2023-01-23,2023-01-25,2,1,Operational Issue
+S0952,2024-10-15,DSV,Vienna,Poznan,Road,Contract,1.79,4,6,2024-10-19,2024-10-21,2,1,Truck Shortage
+S0953,2024-03-19,FedEx,Rotterdam,Poznan,Road,Contract,1.11,5,5,2024-03-24,2024-03-24,0,0,
+S0954,2023-07-15,DSV,Antwerp,Munich,Road,Contract,1.72,3,3,2023-07-18,2023-07-18,0,0,
+S0955,2024-01-23,PKP Cargo,Prague,Rotterdam,Road,Spot,1.15,4,4,2024-01-27,2024-01-27,0,0,
+S0956,2024-04-30,Kuehne+Nagel,Antwerp,Budapest,Road,Contract,1.53,4,4,2024-05-04,2024-05-04,0,0,
+S0957,2023-09-27,DHL,Shenzhen,Poznan,Sea,Spot,5.0,20,22,2023-10-17,2023-10-19,2,1,Customs Hold
+S0958,2024-12-12,Maersk,Gdansk,Poznan,Road,Spot,1.16,4,4,2024-12-16,2024-12-16,0,0,
+S0959,2024-03-13,Maersk,Berlin,Milan,Sea,Contract,4.56,15,15,2024-03-28,2024-03-28,0,0,
+S0960,2024-09-09,DB Schenker,Shanghai,Rotterdam,Road,Contract,1.18,3,3,2024-09-12,2024-09-12,0,0,
+S0961,2024-12-10,FedEx,Berlin,Zurich,Road,Contract,1.45,2,2,2024-12-12,2024-12-12,0,0,
+S0962,2024-01-30,DB Schenker,Hamburg,Zurich,Sea,Spot,5.72,13,15,2024-02-12,2024-02-14,2,1,Carrier Rollover
+S0963,2024-08-20,UPS,Antwerp,Zurich,Road,Contract,0.96,2,2,2024-08-22,2024-08-22,0,0,
+S0964,2024-05-21,UPS,Shanghai,Warsaw,Road,Contract,1.32,4,8,2024-05-25,2024-05-29,4,1,Truck Shortage
+S0965,2023-06-25,FedEx,Berlin,Warsaw,Road,Spot,1.14,4,4,2023-06-29,2023-06-29,0,0,
+S0966,2023-02-08,PKP Cargo,Shenzhen,Budapest,Road,Contract,1.32,3,6,2023-02-11,2023-02-14,3,1,Truck Shortage
+S0967,2024-04-09,UPS,Antwerp,Warsaw,Sea,Spot,5.53,18,19,2024-04-27,2024-04-28,1,1,Warehouse Delay
+S0968,2023-02-13,PKP Cargo,Berlin,Katowice,Sea,Spot,4.98,14,14,2023-02-27,2023-02-27,0,0,
+S0969,2024-11-20,Maersk,Gdansk,Warsaw,Road,Contract,1.63,2,5,2024-11-22,2024-11-25,3,1,Documentation
+S0970,2023-05-02,UPS,Paris,Munich,Road,Contract,0.96,2,4,2023-05-04,2023-05-06,2,1,Weather
+S0971,2024-11-14,Kuehne+Nagel,Hamburg,Budapest,Sea,Contract,5.64,18,25,2024-12-02,2024-12-09,7,1,Equipment Shortage
+S0972,2023-02-13,DSV,Prague,Brno,Rail,Spot,2.69,9,14,2023-02-22,2023-02-27,5,1,Rail Capacity
+S0973,2023-02-05,DB Schenker,Shanghai,Milan,Road,Spot,1.77,5,8,2023-02-10,2023-02-13,3,1,Port Congestion
+S0974,2024-09-06,DSV,Paris,Rotterdam,Road,Contract,1.65,4,4,2024-09-10,2024-09-10,0,0,
+S0975,2024-04-27,PKP Cargo,Vienna,Brno,Rail,Contract,2.7,8,8,2024-05-05,2024-05-05,0,0,
+S0976,2023-08-13,DHL,Rotterdam,Warsaw,Sea,Spot,4.89,15,15,2023-08-28,2023-08-28,0,0,
+S0977,2023-01-30,UPS,Hamburg,Zurich,Road,Spot,1.09,5,5,2023-02-04,2023-02-04,0,0,
+S0978,2024-09-29,UPS,Prague,Munich,Sea,Contract,3.84,17,19,2024-10-16,2024-10-18,2,1,Equipment Shortage
+S0979,2023-09-20,DB Schenker,Vienna,Rotterdam,Road,Spot,0.99,2,2,2023-09-22,2023-09-22,0,0,
+S0980,2023-07-12,DB Schenker,Shanghai,Prague,Sea,Spot,5.04,17,18,2023-07-29,2023-07-30,1,1,Port Congestion
+S0981,2024-08-09,DHL,Paris,Katowice,Sea,Contract,5.47,21,21,2024-08-30,2024-08-30,0,0,
+S0982,2024-06-21,DHL,Rotterdam,Milan,Road,Contract,1.27,3,3,2024-06-24,2024-06-24,0,0,
+S0983,2023-05-28,UPS,Shenzhen,Katowice,Road,Contract,1.04,4,4,2023-06-01,2023-06-01,0,0,
+S0984,2024-09-25,DHL,Vienna,Brno,Sea,Contract,5.21,20,20,2024-10-15,2024-10-15,0,0,
+S0985,2024-05-07,DHL,Hamburg,Rotterdam,Road,Contract,1.34,2,2,2024-05-09,2024-05-09,0,0,
+S0986,2023-02-10,DHL,Paris,Rotterdam,Road,Contract,1.18,3,3,2023-02-13,2023-02-13,0,0,
+S0987,2023-02-08,Kuehne+Nagel,Shanghai,Munich,Sea,Contract,4.0,15,15,2023-02-23,2023-02-23,0,0,
+S0988,2023-11-24,Maersk,Berlin,Milan,Road,Contract,1.13,3,3,2023-11-27,2023-11-27,0,0,
+S0989,2024-12-07,DHL,Shanghai,Prague,Road,Contract,1.69,4,4,2024-12-11,2024-12-11,0,0,
+S0990,2024-05-12,Maersk,Vienna,Prague,Road,Spot,1.63,2,2,2024-05-14,2024-05-14,0,0,
+S0991,2024-04-26,PKP Cargo,Berlin,Munich,Road,Spot,1.75,2,2,2024-04-28,2024-04-28,0,0,
+S0992,2024-07-12,FedEx,Shanghai,Budapest,Road,Spot,1.46,2,2,2024-07-14,2024-07-14,0,0,
+S0993,2024-06-02,DB Schenker,Vienna,Milan,Road,Contract,1.82,3,9,2024-06-05,2024-06-11,6,1,Documentation
+S0994,2024-02-04,UPS,Shenzhen,Warsaw,Rail,Spot,3.02,6,6,2024-02-10,2024-02-10,0,0,
+S0995,2024-12-04,PKP Cargo,Gdansk,Milan,Road,Spot,1.23,5,8,2024-12-09,2024-12-12,3,1,Truck Shortage
+S0996,2023-01-25,UPS,Gdansk,Brno,Road,Contract,1.71,4,4,2023-01-29,2023-01-29,0,0,
+S0997,2023-11-26,UPS,Shanghai,Prague,Road,Contract,1.46,5,5,2023-12-01,2023-12-01,0,0,
+S0998,2024-09-08,PKP Cargo,Prague,Budapest,Road,Spot,1.82,4,4,2024-09-12,2024-09-12,0,0,
+S0999,2023-07-18,DSV,Antwerp,Brno,Road,Spot,1.5,3,5,2023-07-21,2023-07-23,2,1,Operational Issue
+S1000,2023-09-07,DHL,Vienna,Budapest,Road,Contract,0.98,4,8,2023-09-11,2023-09-15,4,1,Warehouse Delay
+S1001,2023-10-29,DSV,Gdansk,Warsaw,Rail,Spot,2.66,6,6,2023-11-04,2023-11-04,0,0,
+S1002,2024-03-15,UPS,Rotterdam,Munich,Rail,Contract,2.97,9,9,2024-03-24,2024-03-24,0,0,
+S1003,2024-10-26,DHL,Vienna,Warsaw,Road,Contract,1.47,3,3,2024-10-29,2024-10-29,0,0,
+S1004,2024-10-20,Maersk,Vienna,Katowice,Road,Contract,1.32,2,6,2024-10-22,2024-10-26,4,1,Port Congestion
+S1005,2024-09-20,DB Schenker,Antwerp,Budapest,Sea,Contract,5.3,12,15,2024-10-02,2024-10-05,3,1,Customs Hold
+S1006,2024-10-25,PKP Cargo,Hamburg,Poznan,Road,Contract,1.29,3,3,2024-10-28,2024-10-28,0,0,
+S1007,2023-04-04,Kuehne+Nagel,Berlin,Prague,Rail,Spot,2.72,5,9,2023-04-09,2023-04-13,4,1,Operational Issue
+S1008,2024-03-27,DB Schenker,Antwerp,Zurich,Road,Contract,0.99,4,4,2024-03-31,2024-03-31,0,0,
+S1009,2023-02-09,FedEx,Berlin,Poznan,Sea,Contract,5.47,21,21,2023-03-02,2023-03-02,0,0,
+S1010,2024-08-09,DHL,Gdansk,Brno,Road,Contract,1.77,3,3,2024-08-12,2024-08-12,0,0,
+S1011,2023-11-11,Kuehne+Nagel,Gdansk,Milan,Road,Contract,1.07,3,5,2023-11-14,2023-11-16,2,1,Equipment Shortage
+S1012,2023-05-03,Kuehne+Nagel,Shenzhen,Milan,Rail,Contract,3.15,9,9,2023-05-12,2023-05-12,0,0,
+S1013,2024-08-31,DHL,Prague,Katowice,Rail,Contract,3.16,7,8,2024-09-07,2024-09-08,1,1,Equipment Shortage
+S1014,2023-10-23,Maersk,Paris,Zurich,Rail,Contract,2.61,7,7,2023-10-30,2023-10-30,0,0,
+S1015,2024-11-08,FedEx,Shenzhen,Warsaw,Road,Contract,1.79,2,2,2024-11-10,2024-11-10,0,0,
+S1016,2024-03-11,Maersk,Paris,Poznan,Road,Contract,1.21,3,3,2024-03-14,2024-03-14,0,0,
+S1017,2023-12-08,Kuehne+Nagel,Paris,Poznan,Sea,Contract,5.08,14,14,2023-12-22,2023-12-22,0,0,
+S1018,2023-05-19,DB Schenker,Rotterdam,Warsaw,Road,Contract,1.23,5,5,2023-05-24,2023-05-24,0,0,
+S1019,2023-09-22,DSV,Shenzhen,Munich,Rail,Contract,2.78,7,7,2023-09-29,2023-09-29,0,0,
+S1020,2023-09-06,PKP Cargo,Berlin,Katowice,Sea,Contract,4.22,21,21,2023-09-27,2023-09-27,0,0,
+S1021,2024-08-18,Maersk,Antwerp,Prague,Road,Spot,1.45,4,6,2024-08-22,2024-08-24,2,1,Port Congestion
+S1022,2024-06-07,DSV,Rotterdam,Poznan,Road,Contract,0.98,5,5,2024-06-12,2024-06-12,0,0,
+S1023,2024-12-02,DB Schenker,Berlin,Poznan,Road,Contract,1.96,2,2,2024-12-04,2024-12-04,0,0,
+S1024,2024-11-09,DB Schenker,Vienna,Brno,Rail,Contract,3.2,9,9,2024-11-18,2024-11-18,0,0,
+S1025,2023-12-01,Maersk,Shenzhen,Zurich,Road,Contract,1.94,4,4,2023-12-05,2023-12-05,0,0,
+S1026,2024-04-03,Kuehne+Nagel,Antwerp,Munich,Rail,Contract,2.61,7,7,2024-04-10,2024-04-10,0,0,
+S1027,2023-05-04,Maersk,Antwerp,Warsaw,Sea,Spot,4.98,14,14,2023-05-18,2023-05-18,0,0,
+S1028,2024-06-20,UPS,Gdansk,Warsaw,Sea,Contract,4.43,21,23,2024-07-11,2024-07-13,2,1,Port Congestion
+S1029,2024-09-09,DSV,Prague,Budapest,Road,Contract,0.92,4,4,2024-09-13,2024-09-13,0,0,
+S1030,2023-12-23,FedEx,Gdansk,Munich,Road,Spot,1.8,3,6,2023-12-26,2023-12-29,3,1,Carrier Rollover
+S1031,2023-08-19,FedEx,Hamburg,Budapest,Road,Spot,1.57,5,5,2023-08-24,2023-08-24,0,0,
+S1032,2023-08-24,Kuehne+Nagel,Vienna,Milan,Road,Contract,1.01,3,3,2023-08-27,2023-08-27,0,0,
+S1033,2023-01-09,DSV,Antwerp,Zurich,Sea,Spot,5.68,18,18,2023-01-27,2023-01-27,0,0,
+S1034,2024-06-02,Kuehne+Nagel,Rotterdam,Warsaw,Road,Contract,1.76,3,3,2024-06-05,2024-06-05,0,0,
+S1035,2023-03-28,FedEx,Gdansk,Poznan,Rail,Spot,2.7,7,8,2023-04-04,2023-04-05,1,1,Documentation
+S1036,2024-09-13,UPS,Shenzhen,Rotterdam,Road,Contract,1.68,5,5,2024-09-18,2024-09-18,0,0,
+S1037,2023-08-09,FedEx,Hamburg,Budapest,Road,Spot,1.26,5,5,2023-08-14,2023-08-14,0,0,
+S1038,2023-04-21,DHL,Shanghai,Rotterdam,Road,Contract,1.23,4,4,2023-04-25,2023-04-25,0,0,
+S1039,2024-12-18,FedEx,Gdansk,Zurich,Road,Spot,1.69,4,4,2024-12-22,2024-12-22,0,0,
+S1040,2024-01-12,Maersk,Shenzhen,Poznan,Road,Contract,1.76,4,4,2024-01-16,2024-01-16,0,0,
+S1041,2024-06-05,DHL,Paris,Prague,Road,Contract,1.74,3,6,2024-06-08,2024-06-11,3,1,Truck Shortage
+S1042,2023-02-06,Maersk,Rotterdam,Brno,Road,Contract,1.07,4,10,2023-02-10,2023-02-16,6,1,Weather
+S1043,2024-07-20,DHL,Vienna,Zurich,Road,Spot,1.6,2,5,2024-07-22,2024-07-25,3,1,Truck Shortage
+S1044,2023-02-10,DSV,Paris,Budapest,Sea,Spot,5.93,16,16,2023-02-26,2023-02-26,0,0,
+S1045,2023-08-19,Kuehne+Nagel,Shanghai,Katowice,Road,Spot,1.11,3,3,2023-08-22,2023-08-22,0,0,
+S1046,2024-12-22,Kuehne+Nagel,Shenzhen,Prague,Road,Contract,1.76,5,5,2024-12-27,2024-12-27,0,0,
+S1047,2024-04-12,Maersk,Paris,Zurich,Road,Contract,1.1,4,5,2024-04-16,2024-04-17,1,1,Equipment Shortage
+S1048,2024-12-14,DSV,Gdansk,Prague,Road,Spot,1.36,4,5,2024-12-18,2024-12-19,1,1,Operational Issue
+S1049,2024-02-21,DHL,Gdansk,Prague,Road,Contract,1.28,5,5,2024-02-26,2024-02-26,0,0,
+S1050,2023-03-07,DB Schenker,Paris,Brno,Sea,Spot,5.71,22,22,2023-03-29,2023-03-29,0,0,
+S1051,2024-06-01,FedEx,Rotterdam,Prague,Rail,Spot,3.36,5,5,2024-06-06,2024-06-06,0,0,
+S1052,2023-01-25,FedEx,Hamburg,Brno,Road,Contract,1.44,4,4,2023-01-29,2023-01-29,0,0,
+S1053,2024-06-24,Kuehne+Nagel,Gdansk,Warsaw,Rail,Contract,2.43,5,5,2024-06-29,2024-06-29,0,0,
+S1054,2024-07-15,DSV,Rotterdam,Poznan,Road,Contract,1.2,4,4,2024-07-19,2024-07-19,0,0,
+S1055,2024-06-18,UPS,Hamburg,Milan,Road,Contract,1.31,4,4,2024-06-22,2024-06-22,0,0,
+S1056,2024-03-01,DHL,Rotterdam,Katowice,Road,Spot,1.16,2,2,2024-03-03,2024-03-03,0,0,
+S1057,2023-08-29,DSV,Paris,Milan,Road,Contract,1.02,4,4,2023-09-02,2023-09-02,0,0,
+S1058,2024-08-11,Maersk,Prague,Brno,Rail,Contract,2.9,8,9,2024-08-19,2024-08-20,1,1,Weather
+S1059,2024-05-06,Kuehne+Nagel,Paris,Zurich,Road,Contract,0.96,4,5,2024-05-10,2024-05-11,1,1,Truck Shortage
+S1060,2023-01-27,PKP Cargo,Shenzhen,Warsaw,Road,Spot,1.5,5,5,2023-02-01,2023-02-01,0,0,
+S1061,2024-08-23,PKP Cargo,Paris,Zurich,Road,Contract,1.66,4,4,2024-08-27,2024-08-27,0,0,
+S1062,2024-10-06,UPS,Berlin,Prague,Rail,Contract,2.68,6,6,2024-10-12,2024-10-12,0,0,
+S1063,2024-12-31,DSV,Shanghai,Budapest,Road,Spot,1.45,5,5,2025-01-05,2025-01-05,0,0,
+S1064,2023-12-24,DSV,Rotterdam,Prague,Sea,Contract,4.8,19,19,2024-01-12,2024-01-12,0,0,
+S1065,2024-03-16,UPS,Berlin,Rotterdam,Rail,Contract,2.88,8,8,2024-03-24,2024-03-24,0,0,
+S1066,2024-06-12,UPS,Rotterdam,Poznan,Road,Contract,1.81,5,5,2024-06-17,2024-06-17,0,0,
+S1067,2024-01-21,DB Schenker,Gdansk,Katowice,Road,Contract,1.49,2,2,2024-01-23,2024-01-23,0,0,
+S1068,2023-09-15,Kuehne+Nagel,Paris,Warsaw,Road,Contract,1.16,4,4,2023-09-19,2023-09-19,0,0,
+S1069,2023-06-03,DHL,Shanghai,Zurich,Sea,Contract,5.02,16,17,2023-06-19,2023-06-20,1,1,Port Congestion
+S1070,2024-09-21,PKP Cargo,Shenzhen,Budapest,Rail,Contract,3.02,6,6,2024-09-27,2024-09-27,0,0,
+S1071,2024-05-06,UPS,Vienna,Munich,Road,Contract,1.08,4,4,2024-05-10,2024-05-10,0,0,
+S1072,2024-08-21,DHL,Shenzhen,Budapest,Road,Spot,1.26,3,5,2024-08-24,2024-08-26,2,1,Port Congestion
+S1073,2023-01-18,FedEx,Prague,Munich,Road,Contract,1.41,4,4,2023-01-22,2023-01-22,0,0,
+S1074,2024-04-05,DHL,Antwerp,Poznan,Sea,Spot,4.12,17,24,2024-04-22,2024-04-29,7,1,Documentation
+S1075,2023-12-26,FedEx,Antwerp,Rotterdam,Road,Spot,1.93,5,8,2023-12-31,2024-01-03,3,1,Equipment Shortage
+S1076,2023-07-05,Kuehne+Nagel,Paris,Katowice,Road,Contract,1.63,5,5,2023-07-10,2023-07-10,0,0,
+S1077,2024-10-12,Maersk,Antwerp,Warsaw,Road,Contract,1.35,3,3,2024-10-15,2024-10-15,0,0,
+S1078,2023-10-09,DB Schenker,Rotterdam,Budapest,Rail,Spot,2.53,6,6,2023-10-15,2023-10-15,0,0,
+S1079,2023-09-25,PKP Cargo,Shanghai,Budapest,Road,Contract,0.99,2,2,2023-09-27,2023-09-27,0,0,
+S1080,2024-07-29,DHL,Vienna,Katowice,Road,Contract,1.03,3,3,2024-08-01,2024-08-01,0,0,
+S1081,2023-12-15,UPS,Berlin,Milan,Rail,Contract,2.7,5,5,2023-12-20,2023-12-20,0,0,
+S1082,2024-08-14,Kuehne+Nagel,Vienna,Budapest,Rail,Contract,3.18,8,8,2024-08-22,2024-08-22,0,0,
+S1083,2023-05-31,FedEx,Vienna,Munich,Road,Contract,1.76,4,7,2023-06-04,2023-06-07,3,1,Warehouse Delay
+S1084,2024-01-08,UPS,Hamburg,Warsaw,Road,Spot,1.66,4,4,2024-01-12,2024-01-12,0,0,
+S1085,2023-07-06,DB Schenker,Hamburg,Zurich,Road,Spot,1.26,4,4,2023-07-10,2023-07-10,0,0,
+S1086,2024-07-30,FedEx,Vienna,Milan,Road,Contract,1.39,2,6,2024-08-01,2024-08-05,4,1,Warehouse Delay
+S1087,2023-08-19,PKP Cargo,Rotterdam,Munich,Sea,Contract,4.85,22,26,2023-09-10,2023-09-14,4,1,Carrier Rollover
+S1088,2023-08-05,Kuehne+Nagel,Berlin,Katowice,Sea,Contract,4.79,21,21,2023-08-26,2023-08-26,0,0,
+S1089,2023-11-10,Kuehne+Nagel,Berlin,Warsaw,Road,Contract,1.11,2,2,2023-11-12,2023-11-12,0,0,
+S1090,2023-10-25,PKP Cargo,Paris,Prague,Sea,Contract,4.92,16,16,2023-11-10,2023-11-10,0,0,
+S1091,2024-02-22,Maersk,Rotterdam,Zurich,Sea,Spot,5.33,12,14,2024-03-05,2024-03-07,2,1,Truck Shortage
+S1092,2023-07-17,DHL,Hamburg,Munich,Rail,Contract,2.95,9,11,2023-07-26,2023-07-28,2,1,Customs Hold
+S1093,2023-10-18,DSV,Rotterdam,Prague,Sea,Contract,4.77,17,21,2023-11-04,2023-11-08,4,1,Port Congestion
+S1094,2024-04-29,DB Schenker,Rotterdam,Brno,Sea,Contract,5.05,16,16,2024-05-15,2024-05-15,0,0,
+S1095,2023-09-30,Maersk,Shanghai,Milan,Road,Contract,1.71,3,3,2023-10-03,2023-10-03,0,0,
+S1096,2024-06-15,UPS,Berlin,Katowice,Road,Contract,1.78,3,3,2024-06-18,2024-06-18,0,0,
+S1097,2023-06-16,FedEx,Paris,Munich,Sea,Contract,5.54,18,18,2023-07-04,2023-07-04,0,0,
+S1098,2023-07-17,DSV,Berlin,Warsaw,Rail,Contract,2.49,8,8,2023-07-25,2023-07-25,0,0,
+S1099,2024-08-26,DB Schenker,Prague,Poznan,Road,Contract,1.27,2,4,2024-08-28,2024-08-30,2,1,Truck Shortage
+S1100,2024-01-25,Kuehne+Nagel,Hamburg,Rotterdam,Road,Contract,1.36,4,4,2024-01-29,2024-01-29,0,0,
+S1101,2023-05-26,FedEx,Hamburg,Poznan,Sea,Spot,5.09,19,19,2023-06-14,2023-06-14,0,0,
+S1102,2023-04-21,UPS,Prague,Rotterdam,Road,Spot,1.26,2,2,2023-04-23,2023-04-23,0,0,
+S1103,2024-02-29,FedEx,Berlin,Katowice,Road,Spot,1.32,5,5,2024-03-05,2024-03-05,0,0,
+S1104,2023-07-26,Maersk,Antwerp,Zurich,Road,Contract,1.4,3,3,2023-07-29,2023-07-29,0,0,
+S1105,2024-03-05,DHL,Shenzhen,Milan,Road,Spot,1.69,4,6,2024-03-09,2024-03-11,2,1,Carrier Rollover
+S1106,2024-05-13,PKP Cargo,Hamburg,Milan,Road,Contract,1.02,4,4,2024-05-17,2024-05-17,0,0,
+S1107,2024-02-02,Maersk,Rotterdam,Prague,Road,Spot,1.63,4,4,2024-02-06,2024-02-06,0,0,
+S1108,2024-06-30,PKP Cargo,Berlin,Munich,Road,Contract,1.19,2,2,2024-07-02,2024-07-02,0,0,
+S1109,2024-04-02,UPS,Berlin,Brno,Road,Contract,1.31,2,2,2024-04-04,2024-04-04,0,0,
+S1110,2023-02-08,PKP Cargo,Prague,Brno,Sea,Contract,5.17,12,14,2023-02-20,2023-02-22,2,1,Equipment Shortage
+S1111,2023-01-27,Maersk,Hamburg,Rotterdam,Road,Spot,1.73,5,5,2023-02-01,2023-02-01,0,0,
+S1112,2024-01-05,DB Schenker,Gdansk,Munich,Road,Contract,1.34,4,4,2024-01-09,2024-01-09,0,0,
+S1113,2024-10-29,DSV,Paris,Poznan,Road,Contract,1.59,4,4,2024-11-02,2024-11-02,0,0,
+S1114,2024-09-09,UPS,Gdansk,Poznan,Road,Contract,1.25,5,5,2024-09-14,2024-09-14,0,0,
+S1115,2023-08-03,DHL,Prague,Milan,Road,Contract,1.0,3,6,2023-08-06,2023-08-09,3,1,Rail Capacity
+S1116,2023-12-28,Maersk,Rotterdam,Katowice,Road,Contract,1.15,3,3,2023-12-31,2023-12-31,0,0,
+S1117,2023-09-25,UPS,Rotterdam,Milan,Road,Contract,1.63,5,5,2023-09-30,2023-09-30,0,0,
+S1118,2023-08-23,Maersk,Hamburg,Warsaw,Road,Contract,1.18,3,3,2023-08-26,2023-08-26,0,0,
+S1119,2024-10-26,FedEx,Berlin,Zurich,Road,Contract,1.57,4,4,2024-10-30,2024-10-30,0,0,
+S1120,2024-01-25,Maersk,Shanghai,Milan,Road,Contract,1.76,5,5,2024-01-30,2024-01-30,0,0,
+S1121,2023-09-02,Kuehne+Nagel,Vienna,Milan,Sea,Spot,4.67,18,18,2023-09-20,2023-09-20,0,0,
+S1122,2023-11-29,Kuehne+Nagel,Shanghai,Milan,Road,Spot,2.06,3,3,2023-12-02,2023-12-02,0,0,
+S1123,2024-01-04,FedEx,Vienna,Munich,Rail,Contract,2.97,7,7,2024-01-11,2024-01-11,0,0,
+S1124,2024-12-19,PKP Cargo,Shanghai,Munich,Sea,Spot,5.35,14,14,2025-01-02,2025-01-02,0,0,
+S1125,2023-05-15,Kuehne+Nagel,Berlin,Rotterdam,Road,Contract,1.07,2,2,2023-05-17,2023-05-17,0,0,
+S1126,2023-04-07,DSV,Berlin,Zurich,Road,Contract,1.08,4,4,2023-04-11,2023-04-11,0,0,
+S1127,2023-07-19,Kuehne+Nagel,Paris,Rotterdam,Road,Spot,1.46,2,2,2023-07-21,2023-07-21,0,0,
+S1128,2023-11-13,DSV,Antwerp,Budapest,Rail,Contract,3.12,7,7,2023-11-20,2023-11-20,0,0,
+S1129,2024-09-26,PKP Cargo,Shanghai,Milan,Road,Contract,1.8,4,4,2024-09-30,2024-09-30,0,0,
+S1130,2023-01-20,UPS,Hamburg,Munich,Road,Spot,1.34,5,5,2023-01-25,2023-01-25,0,0,
+S1131,2023-11-14,Kuehne+Nagel,Rotterdam,Brno,Road,Spot,1.19,5,5,2023-11-19,2023-11-19,0,0,
+S1132,2023-06-20,PKP Cargo,Shanghai,Katowice,Road,Contract,1.08,4,4,2023-06-24,2023-06-24,0,0,
+S1133,2024-05-25,Kuehne+Nagel,Hamburg,Budapest,Road,Contract,1.66,5,5,2024-05-30,2024-05-30,0,0,
+S1134,2024-03-27,DSV,Vienna,Brno,Road,Contract,1.71,5,5,2024-04-01,2024-04-01,0,0,
+S1135,2023-10-23,Kuehne+Nagel,Prague,Milan,Sea,Contract,5.04,21,21,2023-11-13,2023-11-13,0,0,
+S1136,2024-11-14,DHL,Prague,Milan,Rail,Contract,2.99,5,10,2024-11-19,2024-11-24,5,1,Port Congestion
+S1137,2023-10-28,Maersk,Rotterdam,Brno,Road,Contract,1.62,2,2,2023-10-30,2023-10-30,0,0,
+S1138,2023-07-21,DB Schenker,Shenzhen,Zurich,Road,Contract,1.03,5,8,2023-07-26,2023-07-29,3,1,Warehouse Delay
+S1139,2024-10-02,FedEx,Shenzhen,Warsaw,Road,Contract,1.56,4,4,2024-10-06,2024-10-06,0,0,
+S1140,2023-10-20,FedEx,Gdansk,Milan,Road,Spot,1.18,4,5,2023-10-24,2023-10-25,1,1,Operational Issue
+S1141,2023-03-26,PKP Cargo,Shenzhen,Zurich,Road,Spot,1.65,2,9,2023-03-28,2023-04-04,7,1,Truck Shortage
+S1142,2023-05-18,DHL,Shenzhen,Munich,Rail,Contract,2.92,9,9,2023-05-27,2023-05-27,0,0,
+S1143,2023-01-21,DHL,Shanghai,Milan,Sea,Contract,3.85,19,20,2023-02-09,2023-02-10,1,1,Equipment Shortage
+S1144,2024-04-16,DSV,Antwerp,Rotterdam,Road,Contract,1.5,5,9,2024-04-21,2024-04-25,4,1,Rail Capacity
+S1145,2023-06-06,DB Schenker,Vienna,Munich,Road,Spot,1.11,2,2,2023-06-08,2023-06-08,0,0,
+S1146,2024-03-22,DB Schenker,Paris,Brno,Road,Spot,1.39,2,2,2024-03-24,2024-03-24,0,0,
+S1147,2023-12-01,PKP Cargo,Paris,Poznan,Sea,Contract,5.08,20,20,2023-12-21,2023-12-21,0,0,
+S1148,2024-06-07,DSV,Rotterdam,Brno,Road,Contract,1.12,3,3,2024-06-10,2024-06-10,0,0,
+S1149,2023-08-04,PKP Cargo,Hamburg,Zurich,Road,Contract,1.37,3,3,2023-08-07,2023-08-07,0,0,
+S1150,2024-10-21,Kuehne+Nagel,Gdansk,Katowice,Sea,Contract,5.12,14,14,2024-11-04,2024-11-04,0,0,
+S1151,2024-02-02,Maersk,Vienna,Milan,Road,Spot,1.53,4,4,2024-02-06,2024-02-06,0,0,
+S1152,2024-08-02,UPS,Paris,Budapest,Road,Contract,1.76,3,6,2024-08-05,2024-08-08,3,1,Carrier Rollover
+S1153,2024-11-09,FedEx,Rotterdam,Zurich,Road,Spot,2.03,3,5,2024-11-12,2024-11-14,2,1,Warehouse Delay
+S1154,2024-03-10,DHL,Vienna,Poznan,Road,Contract,1.41,5,5,2024-03-15,2024-03-15,0,0,
+S1155,2023-03-03,FedEx,Shanghai,Katowice,Sea,Contract,4.32,22,22,2023-03-25,2023-03-25,0,0,
+S1156,2023-11-14,Maersk,Antwerp,Rotterdam,Sea,Contract,5.68,17,19,2023-12-01,2023-12-03,2,1,Customs Hold
+S1157,2024-05-30,UPS,Antwerp,Poznan,Sea,Contract,4.36,20,20,2024-06-19,2024-06-19,0,0,
+S1158,2023-12-26,UPS,Shanghai,Warsaw,Road,Spot,1.51,2,9,2023-12-28,2024-01-04,7,1,Operational Issue
+S1159,2024-02-13,DSV,Gdansk,Zurich,Road,Contract,1.61,2,2,2024-02-15,2024-02-15,0,0,
+S1160,2023-03-22,UPS,Vienna,Prague,Road,Contract,0.91,2,2,2023-03-24,2023-03-24,0,0,
+S1161,2023-02-07,FedEx,Paris,Katowice,Road,Contract,1.32,5,5,2023-02-12,2023-02-12,0,0,
+S1162,2024-08-22,Kuehne+Nagel,Prague,Milan,Road,Contract,1.34,5,5,2024-08-27,2024-08-27,0,0,
+S1163,2023-10-02,PKP Cargo,Gdansk,Poznan,Road,Contract,1.05,5,5,2023-10-07,2023-10-07,0,0,
+S1164,2023-11-28,DHL,Antwerp,Munich,Rail,Contract,3.38,5,6,2023-12-03,2023-12-04,1,1,Rail Capacity
+S1165,2023-08-17,FedEx,Hamburg,Poznan,Sea,Contract,5.28,16,16,2023-09-02,2023-09-02,0,0,
+S1166,2023-11-06,DHL,Vienna,Katowice,Sea,Spot,6.0,15,15,2023-11-21,2023-11-21,0,0,
+S1167,2024-04-30,DSV,Paris,Zurich,Road,Contract,1.76,3,6,2024-05-03,2024-05-06,3,1,Documentation
+S1168,2024-07-29,Maersk,Rotterdam,Warsaw,Road,Contract,1.86,3,3,2024-08-01,2024-08-01,0,0,
+S1169,2024-10-09,DHL,Gdansk,Prague,Road,Contract,1.45,3,3,2024-10-12,2024-10-12,0,0,
+S1170,2024-09-18,DB Schenker,Shanghai,Zurich,Sea,Contract,4.59,22,28,2024-10-10,2024-10-16,6,1,Port Congestion
+S1171,2023-12-16,DB Schenker,Hamburg,Warsaw,Road,Spot,1.36,2,2,2023-12-18,2023-12-18,0,0,
+S1172,2023-08-23,Kuehne+Nagel,Rotterdam,Poznan,Road,Contract,0.96,5,5,2023-08-28,2023-08-28,0,0,
+S1173,2023-06-14,UPS,Prague,Rotterdam,Road,Contract,1.02,2,2,2023-06-16,2023-06-16,0,0,
+S1174,2023-06-03,UPS,Prague,Milan,Road,Contract,1.32,5,5,2023-06-08,2023-06-08,0,0,
+S1175,2024-05-25,FedEx,Shanghai,Warsaw,Road,Contract,1.09,3,3,2024-05-28,2024-05-28,0,0,
+S1176,2024-07-10,FedEx,Hamburg,Brno,Sea,Contract,5.62,14,14,2024-07-24,2024-07-24,0,0,
+S1177,2023-04-03,UPS,Shanghai,Warsaw,Rail,Contract,3.15,7,7,2023-04-10,2023-04-10,0,0,
+S1178,2023-09-10,FedEx,Prague,Poznan,Road,Contract,1.47,5,5,2023-09-15,2023-09-15,0,0,
+S1179,2023-09-25,DSV,Vienna,Warsaw,Road,Contract,1.26,3,4,2023-09-28,2023-09-29,1,1,Customs Hold
+S1180,2023-02-22,UPS,Antwerp,Munich,Road,Contract,1.4,5,6,2023-02-27,2023-02-28,1,1,Weather
+S1181,2024-04-10,DHL,Berlin,Zurich,Road,Contract,1.08,2,3,2024-04-12,2024-04-13,1,1,Operational Issue
+S1182,2023-10-02,Kuehne+Nagel,Gdansk,Katowice,Road,Contract,1.67,2,2,2023-10-04,2023-10-04,0,0,
+S1183,2024-01-26,PKP Cargo,Hamburg,Prague,Road,Spot,1.94,3,3,2024-01-29,2024-01-29,0,0,
+S1184,2023-02-04,DHL,Paris,Milan,Road,Spot,1.48,4,9,2023-02-08,2023-02-13,5,1,Equipment Shortage
+S1185,2024-04-08,UPS,Prague,Katowice,Road,Contract,1.42,3,6,2024-04-11,2024-04-14,3,1,Warehouse Delay
+S1186,2024-04-11,DHL,Prague,Poznan,Sea,Contract,4.71,22,27,2024-05-03,2024-05-08,5,1,Carrier Rollover
+S1187,2023-08-20,FedEx,Berlin,Warsaw,Sea,Contract,5.34,15,15,2023-09-04,2023-09-04,0,0,
+S1188,2024-03-02,Maersk,Vienna,Prague,Road,Contract,1.46,3,3,2024-03-05,2024-03-05,0,0,
+S1189,2023-12-24,DB Schenker,Berlin,Milan,Road,Contract,1.86,4,4,2023-12-28,2023-12-28,0,0,
+S1190,2024-11-08,Maersk,Prague,Munich,Road,Contract,1.95,4,4,2024-11-12,2024-11-12,0,0,
+S1191,2024-02-25,Maersk,Hamburg,Prague,Road,Contract,1.51,3,6,2024-02-28,2024-03-02,3,1,Customs Hold
+S1192,2024-08-21,DB Schenker,Berlin,Brno,Road,Spot,1.96,3,3,2024-08-24,2024-08-24,0,0,
+S1193,2023-08-05,DSV,Shanghai,Warsaw,Road,Contract,1.63,3,3,2023-08-08,2023-08-08,0,0,
+S1194,2023-05-10,DSV,Gdansk,Brno,Road,Contract,1.73,2,2,2023-05-12,2023-05-12,0,0,
+S1195,2024-10-07,PKP Cargo,Shenzhen,Prague,Sea,Contract,5.14,17,17,2024-10-24,2024-10-24,0,0,
+S1196,2024-12-30,Maersk,Vienna,Budapest,Sea,Contract,5.62,13,16,2025-01-12,2025-01-15,3,1,Equipment Shortage
+S1197,2023-07-19,Maersk,Rotterdam,Munich,Road,Contract,1.6,3,3,2023-07-22,2023-07-22,0,0,
+S1198,2024-01-04,FedEx,Berlin,Rotterdam,Road,Spot,1.66,3,3,2024-01-07,2024-01-07,0,0,
+S1199,2023-02-19,DB Schenker,Antwerp,Budapest,Road,Contract,1.54,5,5,2023-02-24,2023-02-24,0,0,
+S1200,2024-04-12,FedEx,Rotterdam,Poznan,Road,Contract,1.1,4,4,2024-04-16,2024-04-16,0,0,
